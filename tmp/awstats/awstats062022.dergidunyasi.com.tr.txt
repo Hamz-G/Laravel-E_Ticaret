@@ -1,0 +1,490 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202206 will be lost/reset.
+# Last config file used to build this data file was /mnt/uzmandisk2/dergixbz/tmp/awstats/awstats.dergidunyasi.com.tr.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2026                
+POS_TIME 2704                
+POS_VISITOR 8526                
+POS_DAY 10520               
+POS_DOMAIN 3296                
+POS_LOGIN 3678                
+POS_ROBOT 3833                
+POS_WORMS 4094                
+POS_EMAILSENDER 4225                
+POS_EMAILRECEIVER 4368                
+POS_SESSION 10607               
+POS_SIDER 10770               
+POS_FILETYPES 4503                
+POS_DOWNLOADS 4777                
+POS_OS 4825                
+POS_BROWSER 5087                
+POS_SCREENSIZE 5728                
+POS_UNKNOWNREFERER 5802                
+POS_UNKNOWNREFERERBROWSER 6546                
+POS_ORIGIN 6989                
+POS_SEREFERRALS 7128                
+POS_PAGEREFS 7291                
+POS_SEARCHWORDS 7741                
+POS_KEYWORDS 7893                
+POS_MISC 2368                
+POS_ERRORS 7952                
+POS_CLUSTER 3534                
+POS_SIDER_404 8105                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230504091210 21 3492 11098350358184
+FirstTime 20220626000140
+LastTime 20220626091948
+LastUpdate 20230504153012 21 20 0 0 0
+TotalVisits 47                  
+TotalUnique 47                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 51                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 45 102 5853618 38 46 67486
+1 3 3 261 0 0 0
+2 2 2 0 9 13 2901728
+3 1 1 5781 0 0 0
+4 0 0 0 4 6 2711125
+5 35 112 2355978 19 22 1643170
+6 421 1130 2482941 76 77 127457
+7 601 1499 15467449 84 85 24119
+8 627 1078 10041383 65 65 87710
+9 3 14 848862 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 2 2 132125
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+tr 1679 3843 32113797
+us 34 72 4570986
+ru 8 8 512
+zz 4 4 348
+gb 3 3 153151
+ua 2 2 5781
+cn 2 2 0
+au 1 1 22436
+ca 1 1 131771
+hn 1 1 0
+be 1 2 29269
+de 1 1 5787
+eu 1 1 22435
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+Go\-http\-client/ 7 118291 20220626084155 0
+no_user_agent 3 176636 20220626111809 0
+Apache\-HttpClient/ 2 31038 20220626065901 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+css 870 8547676 0 0
+webp 62 1779282 0 0
+js 797 7194581 0 0
+jpg 75 9474567 0 0
+woff2 156 1047132 0 0
+svg 2 3532 0 0
+png 397 2338983 0 0
+xml 2 0 0 0
+woff 3 68000 0 0
+Unknown 1486 4614588 0 0
+html 91 1987932 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+ios_iphone 15 7
+macosx9 1 1
+androidnougat 5 1
+win7 7 3
+Unknown 25 24
+macosx13 1 1
+linux 24 9
+android 53 19
+macosx 1 1
+win10 3792 1662
+macosx15 9 6
+winxp 1 1
+linuxubuntu 5 1
+androidmarshmallow 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 29
+chrome98.0.4758.101 1 1
+chrome33.0.1750.152 1 1
+firefox58.0 1 1
+chrome52.0.3112.98 2 2
+safari15.6.4 12 4
+chrome112.0.0.0 1442 498
+firefox104.0 1 1
+chrome53.0.1709 1 1
+safari15.1 1 1
+chrome111.0.5563.64 5 1
+firefox109.0 5 1
+chrome94.0.4590.2 8 2
+safari 2 2
+chrome92.0.1659 1 1
+chrome79.0.3945.79 10 2
+mozilla 15 14
+chrome110.0.0.0 1 1
+firefox111.0 2376 1175
+chrome41.0.2224.3 1 1
+chrome112.0.5615.87 5 1
+chrome107.0.0.0 5 4
+chrome108.0.0.0 1 1
+chrome83.0.4103.61 6 2
+chrome84.0.4147.89 2 2
+chrome111.0.0.0 13 2
+firefox83.0 1 1
+chrome110.0.5481.177 11 4
+chrome77.0.3865.120 1 1
+Unknown 10 10
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Cpanel-HTTP-Client/1.0 20220626005445
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20220626084136
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20220626065543
+Mozilla/5.0_(compatible;_Domains_Project/1.3.7;__https://domainsproject.org) 20220626000625
+python-requests/2.25.1 20220626001523
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220626091948
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Cpanel-HTTP-Client/1.0 20220626005445
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220626091948
+python-requests/2.25.1 20220626001523
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 94 96
+From1 0 0
+From2 1 1
+From3 4 11
+From4 1639 3833
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+https://cpanel.dergidunyasi.com.tr/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/open_sans.min.css 3 3
+https://twitter.com 1 1
+https://cpanel.dergidunyasi.com.tr/cPanel_magic_revision_1677708914/unprotected/cpanel/style_v2_optimized.css 0 4
+https://cpanel.dergidunyasi.com.tr 0 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+500 52 7254668
+302 116 25685
+419 108 33720
+405 3 1602
+403 4 4916
+404 6 48364
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 4
+/v2/_catalog 2 -
+/public/assets/js/uppy.min.js.map 1 -
+/public/assets/css/slick.min.css.map 1 -
+/api/search 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 51
+78.190.55.78 1654 3765 29154172 20220626084156
+46.106.247.189 14 32 745293 20220626073419
+185.126.216.74 8 8 512 20220626005445
+18.224.3.177 4 11 119312 20220626000022
+78.190.56.14 4 20 605733 20220626000505
+34.254.53.125 3 7 522031 20220626000128
+78.190.158.245 3 7 280673 20220626055549
+23.178.112.202 3 3 261 20220626084136
+176.235.75.196 2 13 717091 20220626091548
+66.249.93.33 2 3 23939 20220626000141
+18.119.141.189 2 2 174 20220626084135
+205.169.39.111 2 8 1003802 20220626000958
+18.236.155.246 2 2 174 20220626084136
+205.169.39.123 2 8 1003799 20220626000057
+205.210.31.194 1 1 131771 20220626091948
+23.178.112.203 1 1 87 20220626010027
+193.34.72.203 1 1 5781 20220626033301
+89.252.132.26 1 1 22436 20220626001617
+106.75.2.214 1 1 0 20220626020451
+161.35.155.246 1 1 22430 20220626000028
+193.34.72.42 1 1 0 20220626001136
+3.135.9.157 1 1 87 20220626010037
+51.158.37.195 1 1 108290 20220626064510
+15.204.173.67 1 1 5776 20220626001523
+65.154.226.171 1 5 588398 20220626000040
+66.249.93.60 0 2 423464 
+34.208.129.164 1 1 87 20220626010030
+137.184.140.204 1 1 5772 20220626003115
+35.88.245.153 1 1 87 20220626084132
+146.70.116.246 1 1 22430 20220626000508
+206.189.198.85 1 1 0 20220626000625
+66.249.93.63 0 3 150118 
+198.23.242.155 1 1 22436 20220626001618
+34.83.252.95 1 1 5786 20220626000235
+217.114.218.26 1 1 5787 20220626003112
+35.165.215.140 1 5 588399 20220626002352
+106.75.16.16 1 1 0 20220626020438
+34.201.82.13 1 1 25266 20220626065919
+3.142.243.195 1 1 87 20220626084132
+209.127.111.98 1 1 5785 20220626001137
+186.179.59.10 1 1 0 20220626065902
+93.119.227.91 1 1 22435 20220626002801
+176.89.95.103 1 5 588399 20220626002005
+202.43.6.36 1 1 22436 20220626001617
+87.236.176.246 0 1 4005 
+142.147.89.239 1 1 4900 20220626000142
+52.47.99.242 1 1 22436 20220626001617
+87.236.176.153 1 1 25264 20220626065541
+51.81.167.146 1 1 22431 20220626000502
+54.145.38.26 0 1 4005 
+139.144.96.150 1 1 22436 20220626000038
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 1
+20220626 1738 3941 37056273 47
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+1h+ 1
+30s-2mn 1
+0s-30s 45
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 124
+/category/nav-element-list 328 18000 0 0
+/aiz-uploader/get_file_by_ids 317 72606 0 0
+/aiz-uploader/get_uploaded_files 113 163612 0 0
+/public/assets/fonts/la-solid-900.woff2 91 677264 0 2
+/ 87 1976366 31 26
+/aiz-uploader 83 103086 0 0
+/public/assets/css/font/summernote.woff2 42 30780 0 0
+/home/section/best_selling 39 0 0 0
+/home/section/auction_products 39 0 0 1
+/home/section/best_sellers 39 7190 0 0
+/home/section/featured 39 0 0 0
+/home/section/home_categories 39 8732 0 0
+/admin/currency/update_status 36 756 0 0
+/aiz-uploader/upload 30 660 0 0
+/admin/categories 29 263612 0 0
+/admin/website/footer 27 278751 0 0
+/admin/website/header 24 205641 0 0
+/public/assets/fonts/la-brands-400.woff2 23 339088 0 0
+/admin/website/pages 20 161413 0 0
+/admin/general-setting 14 139030 0 0
+/admin/categories/create 13 106879 0 0
+/admin/languages/5 12 104952 0 0
+/admin/languages 11 96074 0 0
+/admin/website/custom-pages/edit/home 11 112956 0 0
+/admin/currency 9 88832 0 0
+/step3 2 19292 0 1
+/admin/categories/edit/3 5 43127 0 0
+/admin/blog-category 3 23169 0 0
+/admin/categories/edit/9 2 17457 0 0
+/admin/currency/create 1 586 0 0
+/admin/activation 4 37498 0 0
+/admin/website/custom-pages/create 7 56620 0 0
+/admin/website/custom-pages/edit/seller-policy 6 50124 0 0
+/admin 6 71409 0 0
+/admin/website/custom-pages/edit/alicipolitikasi 1 9173 0 0
+/.well-known/acme-challenge/NEH2JEGTX00EAQRKZ-AZ0-HR9SA5R-TW 1 64 0 0
+/categories 2 49054 0 0
+/support-policy 1 24411 0 0
+/.well-known/acme-challenge/MHJSXIDOOJCMFO9D82DZ88TK39AWVFWQ 1 64 0 0
+http://dergidunyasi.com.tr:80/ 4 11566 4 4
+/.well-known/acme-challenge/M9POVL1EN50H39UOL0PQ_5P7PYBBVOV3 1 64 0 0
+/admin/languages/app-translations/show/5 2 14663 0 0
+/admin/website/custom-pages/edit/return-policy 1 8349 0 0
+/admin/digitalproducts 1 8046 0 0
+/admin/categories/edit/7 2 17467 0 0
+/admin/categories/edit/5 2 17452 0 0
+/flash-deals 3 70518 0 0
+/reviews 1 7710 0 0
+/step1 2 19404 0 0
+/admin/languages/5/edit 1 10758 0 0
+/terms 1 24608 0 0
+/privacy-policy 1 24448 0 0
+/admin/categories/edit/8 2 17474 0 0
+/blog 1 25178 0 0
+/admin/products/admin 1 8930 0 0
+/admin/languages/create 1 10337 0 0
+/admin/currency/currency_edit 6 3780 0 0
+/.well-known/acme-challenge/-S__PT05PBDMIOMCOYJX5XAALG3MJ6-5 1 64 1 0
+/.well-known/acme-challenge/DK7nN7G4nKIZgHdjTc2LiGCQxxnFvLUxLdbId-LJX38 3 261 3 2
+/brand/dergi 2 52388 0 0
+/.well-known/acme-challenge/45LLVWLPFSQGHF-8-SRA8CAZXMELW-1E 1 64 0 0
+/login 3 15637 0 0
+/.well-known/acme-challenge/R62C66CMOLRE2NJ5CCIJCFB9ZGN0QCQG 1 64 0 0
+/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff 1 22432 0 1
+/language 1 0 0 0
+/admin/product-bulk-upload/index 1 7787 0 0
+/step5 1 14143 0 0
+/users/registration 1 20803 1 0
+/admin/order-configuration 2 14818 0 0
+/admin/system/update 1 7638 0 0
+/refresh-csrf 2 104 0 0
+/admin/attributes/edit/1 2 15131 0 0
+/admin/categories/edit/2 9 77533 0 0
+/category/moda-ve-g%C3%BCzellik 1 25955 0 0
+/.well-known/acme-challenge/n8It-L1jXVXypnEW-psugKVTltdYCYnOpmIuAF_SJS0 3 261 2 0
+/step2 2 20621 0 0
+/admin/sellers 3 60898 0 0
+/admin/website/custom-pages/edit/support-policy 2 17558 0 0
+/_debugbar/assets/stylesheets 3 391104 0 0
+/nakliyepolitikasi 1 28761 0 0
+/brands 1 24728 0 0
+/admin/website/appearance 7 63922 0 0
+/admin/products/all 4 35996 0 0
+/category/saglik-ve-yasam 1 25948 0 0
+/.well-known/acme-challenge/EDS31DLGYHIP_2U6U9ZJSA9N_2KVX_21 1 64 0 1
+/admin/blog-category/create 1 7276 0 0
+/category/ev-ve-bahe-vpjpr 1 25585 0 0
+/admin/attributes 5 39552 0 0
+/_debugbar/assets/javascript 3 382024 0 1
+/admin/staffs 1 23486 0 0
+/admin/payment-method 5 51627 0 0
+/admin/product-bulk-export 6 37976 0 0
+/admin/brands/edit/2 2 15881 0 0
+/admin/categories/edit/10 2 17469 0 0
+/admin/customers 3 74339 0 0
+/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff 1 22908 0 0
+/admin/categories/edit/1 8 68861 0 0
+/admin/categories/edit/14 2 17467 0 0
+/admin/categories/edit/13 2 17451 0 0
+/admin/attributes/edit/2 1 7539 0 0
+/admin/brands 3 25046 0 0
+/admin/categories/edit/11 2 17465 0 0
+/admin/categories/edit/4 2 17455 0 0
+/admin/products/create 2 31924 0 0
+/return-policy 1 25054 0 0
+/step4 1 14498 0 0
+/admin/categories/edit/15 2 17464 0 0
+/admin/file_system 1 8217 0 0
+/.well-known/acme-challenge/iS5MyXODHYIW5YQzfYtVyi85BesqlOQrF8SEMfhCJ4A 3 261 0 3
+/admin/pick_up_points 1 7748 0 0
+/admin/categories/edit/6 2 17465 0 0
+/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff 1 22660 0 0
+/_debugbar/open 5 16131 0 0
+/admin/business-settings/update/activation 3 63 0 0
+/.well-known/acme-challenge/Nor9hvhLq_mtfzbsSIElpUz8Mcg9pneMfeap-PHc3Mw 3 261 3 3
+/admin/website/custom-pages/edit/terms 1 8349 0 0
+/admin/colors 1 9187 0 0
+/.well-known/acme-challenge/YR1A8L8TCZG6UUD8747VOUEH4WX2LC8A 1 64 0 0
+/admin/website/custom-pages/edit/privacy-policy 1 8356 0 0
+/admin/blog/create 1 8111 0 0
+/admin/blog 2 16621 0 0
+/sitemap.xml 2 0 2 2
+/system_settings 1 15238 0 0
+/admin/smtp-settings 2 16810 0 0
+END_SIDER

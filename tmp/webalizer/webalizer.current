@@ -1,0 +1,134 @@
+# Webalizer V2.23-08 Incremental Data - 05/04/2023 12:34:32
+2023 5 4 12 34 32
+6 0 2 0 1 3 2140 6 2 0
+2 2 6 4 4
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+6 0 2140 2 6 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+4 0 1416 4
+0 0 0 0
+0 0 0 0
+2 0 724 2
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+# End Of Table - urls
+# -sites- (monthly)
+vmi490679.contaboserver.net
+0 2 0 724 1 1683203672
+-
+78.190.63.17.static.ttnet.com.tr
+0 4 0 1416 1 1683193406
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+vmi490679.contaboserver.net
+0 2 0 724 1 1683203672
+-
+78.190.63.17.static.ttnet.com.tr
+0 4 0 1416 1 1683193406
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 6
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; U; Android 12; tr-tr; Redmi Note 11 Build/SKQ1.211103.001) AppleWebKit/537.36 (KHTML, like Gecko) Version
+0 1
+Mozilla/5.0 (Linux; Android 12; 2201117TG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+0 3
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

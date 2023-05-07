@@ -1,0 +1,283 @@
+[16-Apr-2023 18:14:49 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[16-Apr-2023 19:15:06 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[16-Apr-2023 19:15:06 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[16-Apr-2023 19:15:07 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[16-Apr-2023 19:15:07 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[16-Apr-2023 19:15:07 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[16-Apr-2023 19:15:07 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[16-Apr-2023 19:15:08 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[16-Apr-2023 19:15:08 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[16-Apr-2023 19:15:08 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[16-Apr-2023 19:15:08 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[16-Apr-2023 19:15:08 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[16-Apr-2023 19:15:15 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[16-Apr-2023 19:15:16 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[16-Apr-2023 19:15:16 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[16-Apr-2023 19:15:16 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[16-Apr-2023 19:15:16 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[16-Apr-2023 19:15:16 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[16-Apr-2023 19:15:17 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[16-Apr-2023 19:15:17 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[16-Apr-2023 19:15:18 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[16-Apr-2023 19:15:18 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[16-Apr-2023 19:15:18 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[16-Apr-2023 19:26:15 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[16-Apr-2023 19:26:15 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[17-Apr-2023 03:17:07 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[17-Apr-2023 03:17:13 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[17-Apr-2023 03:17:15 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[17-Apr-2023 03:17:23 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[17-Apr-2023 03:17:42 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[17-Apr-2023 03:19:04 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[17-Apr-2023 03:20:26 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[17-Apr-2023 03:20:31 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[17-Apr-2023 03:21:42 UTC] PHP Fatal error:  Uncaught ErrorException: include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../doctrine/inflector/lib/Doctrine/Inflector/Rules/Patterns.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php:582
+Stack trace:
+#0 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/mnt/uz...', '/mnt/uzmandisk2...', 582, Array)
+#1 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(582): include()
+#2 /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php(433): Composer\Autoload\{closure}('/mnt/uzmandisk2...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Doctrine\\Inflec...')
+#4 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/Rules.php(18): spl_autoload_call('Doctrine\\Inflec...')
+#5 /mnt/uzmandisk2/dergixbz/public_html/vendor/doctrine/inflector/lib/Do in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[17-Apr-2023 04:42:42 UTC] PHP Warning:  require(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../ralouphie/getallheaders/src/getallheaders.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/autoload_real.php on line 41
+[17-Apr-2023 04:42:42 UTC] PHP Warning:  require(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../ralouphie/getallheaders/src/getallheaders.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/autoload_real.php on line 41
+[17-Apr-2023 04:42:42 UTC] PHP Fatal error:  require(): Failed opening required '/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../ralouphie/getallheaders/src/getallheaders.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/autoload_real.php on line 41
+[17-Apr-2023 05:10:42 UTC] PHP Warning:  include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../laravel/framework/src/Illuminate/Macroable/Traits/Macroable.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[17-Apr-2023 05:10:42 UTC] PHP Warning:  include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../laravel/framework/src/Illuminate/Macroable/Traits/Macroable.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[17-Apr-2023 05:10:42 UTC] PHP Warning:  include(): Failed opening '/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../laravel/framework/src/Illuminate/Macroable/Traits/Macroable.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[17-Apr-2023 05:10:42 UTC] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /mnt/uzmandisk2/dergixbz/public_html/vendor/laravel/framework/src/Illuminate/Collections/Arr.php on line 9
+[17-Apr-2023 05:10:53 UTC] PHP Warning:  include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../laravel/framework/src/Illuminate/Macroable/Traits/Macroable.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[17-Apr-2023 05:10:53 UTC] PHP Warning:  include(/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../laravel/framework/src/Illuminate/Macroable/Traits/Macroable.php): failed to open stream: No such file or directory in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[17-Apr-2023 05:10:53 UTC] PHP Warning:  include(): Failed opening '/mnt/uzmandisk2/dergixbz/public_html/vendor/composer/../laravel/framework/src/Illuminate/Macroable/Traits/Macroable.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /mnt/uzmandisk2/dergixbz/public_html/vendor/composer/ClassLoader.php on line 582
+[17-Apr-2023 05:10:53 UTC] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /mnt/uzmandisk2/dergixbz/public_html/vendor/laravel/framework/src/Illuminate/Collections/Arr.php on line 9

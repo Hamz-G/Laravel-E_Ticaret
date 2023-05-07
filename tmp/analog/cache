@@ -1,0 +1,1633 @@
+CACHE type 5 produced by analog 6.0/Unix. Do not modify or delete!
+T	0	0	12552	590	569	569	367909740
+D	27604800	27605475
+19170	0	919	72	60439329
+19170	1	909	51	27344632
+19170	2	385	22	5002470
+19170	3	398	27	16349839
+19170	4	506	34	16937398
+19170	5	255	22	12138210
+19170	6	305	22	17094526
+19170	7	565	27	9916169
+19170	8	363	16	11508272
+19170	9	167	8	1803225
+19170	10	393	17	21306859
+19170	11	437	15	11979163
+19170	12	8	5	136176
+19170	13	49	3	5444559
+19170	14	267	12	12339803
+19170	15	104	6	5284655
+19170	16	24	5	1488963
+19170	17	128	5	5297857
+19170	18	422	8	5048784
+19170	19	194	4	1212420
+19170	20	200	9	587012
+19170	21	91	3	903003
+19170	22	21	2	55289
+19170	23	121	9	590833
+19170	24	2	0	0
+19170	25	1	1	132761
+19170	26	5	4	112714
+19170	27	113	3	1382283
+19170	28	205	6	5338441
+19170	29	37	2	76350
+19170	30	1	1	27168
+19170	31	1	1	27187
+19170	32	24	1	69284
+19170	34	3	3	81453
+19170	35	3	3	81462
+19170	36	2	1	31175
+19170	39	1	1	0
+19170	40	59	3	5408778
+19170	41	3	2	58324
+19170	42	1	1	5781
+19170	43	2	2	24963
+19170	44	45	2	5009427
+19170	45	6	6	554261
+19170	46	127	10	12326382
+19170	47	126	5	10059618
+19170	48	69	4	5191541
+19170	49	15	1	23967
+19170	50	49	3	5168435
+19170	51	95	3	5714932
+19170	52	7	7	158944
+19170	53	100	7	9270884
+19170	54	7	2	637000
+19170	57	2	2	265324
+19170	60	2	2	159941
+19170	63	1	1	27188
+19170	64	11	1	205910
+19170	66	2	2	159737
+19170	68	1	1	27183
+19170	70	22	1	803999
+19170	71	90	2	1551979
+19170	72	343	2	352829
+19170	73	15	0	29963
+19170	75	16	0	20137
+19170	76	105	2	289109
+19170	77	68	2	104370
+19170	78	172	4	313276
+19170	79	139	4	187996
+19170	80	83	2	639862
+19170	81	54	1	175869
+19170	82	78	1	290986
+19170	83	62	6	210632
+19170	84	100	3	992283
+19170	85	163	5	1464810
+19170	86	25	1	62446
+19170	87	29	2	625188
+19170	88	56	1	511097
+19170	89	119	3	1298216
+19170	90	270	8	10047856
+19170	91	191	1	2268548
+19170	92	264	3	2827848
+19170	93	216	1	2518863
+19170	94	139	0	1807392
+19170	95	94	2	1074437
+19170	96	46	0	198161
+19170	97	113	2	702585
+19170	98	158	0	1094272
+19170	99	128	1	741717
+19170	100	83	3	312001
+19170	101	174	10	7482017
+19170	102	190	1	1943527
+19170	103	297	8	5056271
+19170	104	76	8	900321
+19170	111	14	1	848862
+19170	135	1	1	131771
+1	1	0	0	0	27605162	0	0	27605162	0	0	642	/public/assets/img/flags/za.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	545	/public/assets/img/flags/de.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	443	/public/assets/img/flags/bw.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	472	/public/assets/img/flags/cn.png
+1	3	0	0	0	27605307	0	0	27604800	0	0	0	/public/assets/css/font/summernote.eot?
+1	0	0	2	0	0	27604836	0	0	27604836	0	0	/recharge
+1	990	0	0	0	27605355	0	0	27604800	0	0	5179075	/public/assets/css/aiz-core.css
+1	0	0	0	5	0	0	27604871	0	0	27604827	0	/core/Datavase/.env
+1	1	0	0	0	27605162	0	0	27605162	0	0	594	/public/assets/img/flags/ge.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	503	/public/assets/img/flags/in.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	448	/public/assets/img/flags/me.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	486	/public/assets/img/flags/kw.png
+1	4	0	0	0	27604867	0	0	27604818	0	0	1826176	/public/uploads/all/etAZHkLaxOhWUsu9IkSKZO6wRaR6FuSSg1nMmV6l.jpg
+1	1	0	0	0	27605162	0	0	27605162	0	0	397	/public/assets/img/flags/pe.png
+1	3	0	0	0	27605292	0	0	27604805	0	0	20030	/admin/pick_up_points
+1	1	0	0	0	27605162	0	0	27605162	0	0	542	/public/assets/img/flags/se.png
+1	7	0	0	0	27605306	0	0	27604801	0	0	361099	/category/eitim-ve-retim-s3pjz
+1	6	0	0	0	27605225	0	0	27605197	0	0	3780	/admin/currency/currency_edit
+1	974	0	0	0	27605355	0	0	27604800	0	0	32244907	/public/assets/js/vendors.js
+1	7	0	0	0	27605307	0	0	27604800	0	0	382912	/search
+1	402	0	0	0	27605355	0	0	27604800	0	0	5708368	/public/assets/fonts/la-solid-900.woff2
+1	1	0	0	0	27605162	0	0	27605162	0	0	465	/public/assets/img/flags/tw.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	528	/public/assets/img/flags/ve.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	413	/public/assets/img/flags/ye.png
+1	422	0	0	0	27605355	0	0	27604800	0	0	2580	/public/assets/css/custom-style.css
+1	1	0	0	0	27605162	0	0	27605162	0	0	593	/public/assets/img/flags/br.png
+1	0	0	0	14	0	0	27605203	0	0	27604800	0	/.env
+1	1	0	0	0	27605162	0	0	27605162	0	0	453	/public/assets/img/flags/ci.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	574	/public/assets/img/flags/zw.png
+1	567	0	0	19	27605320	0	27605221	27604803	0	27605214	132103	/aiz-uploader/get_file_by_ids
+1	59	0	0	0	27605320	0	0	27604800	0	0	11568634	/public/uploads/all/INg0qWHyOf5sBMQ43jztF6wmRy9nCVH6465Gmru2.jpg
+1	1	0	0	0	27605162	0	0	27605162	0	0	489	/public/assets/img/flags/fi.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	653	/public/assets/img/flags/er.png
+1	8	0	0	0	27605292	0	0	27604800	0	0	188960	/public/assets/img/cards/stripe.png
+1	1	0	0	0	27605291	0	0	27605291	0	0	7638	/admin/system/update
+1	4	0	0	0	27605158	0	0	27604808	0	0	41403	/admin/staffs
+1	1	0	0	0	27604854	0	0	27604854	0	0	64	/.well-known/acme-challenge/45LLVWLPFSQGHF-8-SRA8CAZXMELW-1E
+1	1	0	0	0	27605162	0	0	27605162	0	0	524	/public/assets/img/flags/hr.png
+1	31	0	0	0	27605355	0	0	27604801	0	0	1025776	/users/registration
+1	1	0	0	0	27605162	0	0	27605162	0	0	537	/public/assets/img/flags/li.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	592	/public/assets/img/flags/kr.png
+1	2	0	0	0	27605290	0	0	27604816	0	0	13955	/admin/product-bulk-upload/index
+1	68	0	0	0	27605317	0	0	27604800	0	0	19973807	/public/uploads/all/bYUgfIdNKOWiq1DMdedQAsNfXYWoHMKEiiSRHfjB.jpg
+1	12	0	0	0	27605290	0	0	27604812	0	0	98786	/admin/products/admin
+1	1	0	0	0	27605162	0	0	27605162	0	0	527	/public/assets/img/flags/nr.png
+1	5	0	0	0	27604867	0	0	27604817	0	0	477760	/public/uploads/all/cHune9rQKWhG5PkDOzgjKdKeTMnvowplPP6RdfH7.jpg
+1	2	0	0	0	27605264	0	0	27605264	0	0	17457	/admin/categories/edit/9?lang=tr
+1	1	0	0	0	27604825	0	0	27604825	0	0	64	/.well-known/acme-challenge/7VKSUQ3FS22DCTBME-WV_R33QGAD81SZ
+1	0	0	1	0	0	27605276	0	0	27605276	0	0	/admin/categories/15
+1	7	0	5	0	27605307	27605307	0	27604800	27604800	0	335515	/alicipolitikasi
+1	0	0	1	0	0	27605275	0	0	27605275	0	0	/admin/categories/14
+1	8	0	0	0	27605228	0	0	27604803	0	0	3936	/public/assets/img/flags/tr.png
+1	0	0	1	0	0	27605274	0	0	27605274	0	0	/admin/categories/13
+1	3	0	0	0	27604821	0	0	27604819	0	0	20890	/admin/categories/edit/12?lang=tr
+1	0	0	2	0	0	27604821	0	0	27604820	0	0	/admin/categories/12
+1	0	0	1	0	0	27605273	0	0	27605273	0	0	/admin/categories/11
+1	59	0	0	0	27605317	0	0	27604800	0	0	801735	/public/uploads/all/pblJH0rfVagR6Fp1nMXt8B23KQd9ktwKVUb0gUAC.jpg
+1	0	0	1	0	0	27605272	0	0	27605272	0	0	/admin/categories/10
+1	1	0	0	0	27605162	0	0	27605162	0	0	611	/public/assets/img/flags/bm.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	528	/public/assets/img/flags/cd.png
+1	13	0	0	0	27605289	0	0	27604803	0	0	106077	/admin/website/appearance
+1	2	0	0	0	27605255	0	0	27604816	0	0	16422	/admin/colors
+1	1	0	0	0	27604818	0	0	27604818	0	0	436346	/public/uploads/all/aiWaZ4F7kqTt4Qm1WFKK2Mb8rZ2zd1yImOg2x4cJ.jpg
+1	1	0	0	0	27605121	0	0	27605121	0	0	2517	http://dergidunyasi.com.tr:80/public/assets/img/placeholder.jpg
+1	52	0	0	0	27605319	0	0	27604800	0	0	11440702	/public/uploads/all/N22IAJdcFRmj8GYmkfDCQI20qoK1QE3mHhPz2bDY.jpg
+1	15	0	4	0	27605306	27605306	0	27604800	27604800	0	729874	/return-policy
+1	2	0	0	6	27604840	0	27604847	27604840	0	27604840	24976	/pma/index.php
+1	8	0	0	0	27605307	0	0	27604800	0	0	353463	/track-your-order
+1	1	0	0	0	27605162	0	0	27605162	0	0	430	/public/assets/img/flags/id.png
+1	2	0	0	0	27605121	0	0	27605121	0	0	127228	http://dergidunyasi.com.tr:80/public/uploads/all/z4tiOPSXXTdWGSSVpRcE9MB79TC1EBIAMBlasXhd.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	673	/public/assets/img/flags/hm.png
+1	1	0	0	0	27604854	0	0	27604854	0	0	64	/.well-known/acme-challenge/MHJSXIDOOJCMFO9D82DZ88TK39AWVFWQ
+1	1	0	0	0	27604898	0	0	27604898	0	0	158742	/public/uploads/all/pwzeMxe2uDm9O4Z2ZyApNkCHfXc9Wc4nCgvtU8ky.jpg
+1	0	0	1	0	0	27604810	0	0	27604810	0	0	/admin/customers/login/eyJpdiI6IlkrdjZaOEptTVdGQTdvRHM5TnlBL1E9PSIsInZhbHVlIjoiMTRDY2E5V3pKYlRiOWsvSDlHVmIyZz09IiwibWFjIjoiMzA1NmE4ODBhMWFjZDU5ZTk0ZmVlODA4OWI0NGFiMWNlNTZiNjQwMjRkZGQ5Y2JiMmVlNjY5OTE0MDlhYzg1MCIsInRhZyI6IiJ9
+1	1	0	0	0	27605162	0	0	27605162	0	0	577	/public/assets/img/flags/km.png
+1	1	0	0	0	27604837	0	0	27604837	0	0	6362	/admin/flash_deals
+1	1	0	0	0	27605162	0	0	27605162	0	0	542	/public/assets/img/flags/mv.png
+1	5	0	0	0	27605245	0	0	27604805	0	0	123215	/public/assets/img/cards/ngenius.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	593	/public/assets/img/flags/tm.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	501	/public/assets/img/flags/sv.png
+1	1	0	0	0	27604805	0	0	27604805	0	0	5740	/admin/tax/edit/3
+1	51	0	0	0	27605317	0	0	27604800	0	0	5651950	/public/uploads/all/GWdxk1tjBIC4ZgrYDiZS7zRZE4UPCfeGQwrKqt4U.jpg
+1	2	0	0	0	27604843	0	0	27604843	0	0	13331	/admin/support_ticket/eyJpdiI6IjdBbWo2RS9mUE9GNStKakloTk80MFE9PSIsInZhbHVlIjoiWEtBVmdVL2RVUUpsSDFpc3Q0VnNmZz09IiwibWFjIjoiYTE1MjNlNGI2ZGVhZmNhYWQyM2ZkMmQxY2U2Y2MyNjBmMmU2ZWUxNGM4NzEyZTEwYTFjMTVkNzU4ZDRkZWZjZSIsInRhZyI6IiJ9/show
+1	0	0	9	0	0	27604900	0	0	27604820	0	0	/admin/products/store
+1	6	0	0	0	27605307	0	0	27604800	0	0	339708	/category/spor-ve-fitness-jm7mn
+1	1	0	0	0	27605162	0	0	27605162	0	0	457	/public/assets/img/flags/bh.png
+1	1	0	0	0	27605121	0	0	27605121	0	0	6591	http://dergidunyasi.com.tr:80/public/assets/img/placeholder-rect.jpg
+1	0	0	0	20	0	0	27605196	0	0	27604801	0	/public/assets/js/uppy.min.js.map
+1	185	0	0	14	27605320	0	27605321	27604800	0	27604807	0	/home/section/auction_products
+1	1	0	0	0	27605162	0	0	27605162	0	0	500	/public/assets/img/flags/zm.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	508	/public/assets/img/flags/eh.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	476	/public/assets/img/flags/cz.png
+1	1	0	0	0	27605164	0	0	27605164	0	0	10758	/admin/languages/5/edit
+1	3	0	0	0	27604860	0	0	27604860	0	0	261	/.well-known/acme-challenge/Nor9hvhLq_mtfzbsSIElpUz8Mcg9pneMfeap-PHc3Mw
+1	0	0	0	5	0	0	27604871	0	0	27604827	0	/saas/.env
+1	0	0	5	5	0	27604871	27604871	0	27604827	27604827	0	/.production
+1	0	0	0	5	0	0	27604871	0	0	27604828	0	/admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+1	1	0	0	0	27605162	0	0	27605162	0	0	537	/public/assets/img/flags/gq.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	549	/public/assets/img/flags/kh.png
+1	1	0	0	0	27605211	0	0	27605211	0	0	8356	/admin/website/custom-pages/edit/privacy-policy?lang=tr
+1	0	0	2	0	0	27605164	0	0	27605163	0	0	/admin/env_key_update
+1	2	0	0	0	27605268	0	0	27605268	0	0	17455	/admin/categories/edit/4?lang=tr
+1	6	0	4	0	27605307	27605307	0	27604800	27604800	0	425046	/cerezpolitikasi
+1	1	0	0	0	27605162	0	0	27605162	0	0	655	/public/assets/img/flags/mq.png
+1	2	0	0	2	27604800	0	27604800	27604800	0	27604800	164	/api/search?folderIds=0
+1	4	0	0	0	27604938	0	0	27604807	0	0	43238	/admin/uploaded-files
+1	1	0	0	0	27604818	0	0	27604818	0	0	78838	/public/uploads/all/m3yOUNrIgOlLexVvMuHtAThgNqqFzDO29mScSHrT.jpg
+1	2	0	1	0	27604903	27604845	0	27604837	27604845	0	48561	/digital-purchase-history
+1	2	0	0	0	27604893	0	0	27604830	0	0	52817	/product/gezi-a-dan-z-ye-yaz-tatili
+1	8	0	0	0	27605306	0	0	27604801	0	0	387625	/category/otomobil-ve-motorlu-tatlar-dapyp
+1	1	0	0	0	27604939	0	0	27604939	0	0	5918	/admin/wallet-history
+1	0	0	0	5	0	0	27604871	0	0	27604828	0	/administrator/.env
+1	1	0	0	0	27605162	0	0	27605162	0	0	452	/public/assets/img/flags/th.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	515	/public/assets/img/flags/uz.png
+1	1	0	0	0	27604815	0	0	27604815	0	0	166454	/public/uploads/all/YPl8difMSbmCOlTPemV2TXtl7BjD6Hb6o3SHAXRx.jpg?34.201.82.13
+1	1	0	0	0	27605162	0	0	27605162	0	0	600	/public/assets/img/flags/al.png
+1	68	0	0	0	27605317	0	0	27604800	0	0	5226300	/public/uploads/all/6GGfwBoDMpvRVJWJK5FsCTwBJtAra9Chg76aHNuQ.jpg
+1	7	0	0	0	27605306	0	0	27604801	0	0	361026	/category/sanat-ve-kltr-w7kzn
+1	11	0	0	0	27605315	0	0	27605201	0	0	112956	/admin/website/custom-pages/edit/home?lang=tr&page=home
+1	1	0	0	0	27605162	0	0	27605162	0	0	563	/public/assets/img/flags/cu.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	500	/public/assets/img/flags/ec.png
+1	15	0	6	0	27605260	27605306	0	27604808	27604801	0	409869	/dashboard
+1	3	0	0	0	27605307	0	0	27604800	0	0	0	/public/assets/fonts/la-regular-400.woff
+1	1	0	0	0	27605162	0	0	27605162	0	0	470	/public/assets/img/flags/gl.png
+1	1	0	0	0	27604898	0	0	27604898	0	0	144193	/public/uploads/all/qJ4HNZ4jW6027hZtLaOtfhzlXmt7YvnntHTApFeB.jpg
+1	6	0	0	0	27605277	0	0	27604854	0	0	328	/refresh-csrf
+1	0	0	0	5	0	0	27604871	0	0	27604828	0	/backup/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+1	14	0	0	0	27604896	0	0	27604824	0	0	0	/admin/products/sku_combination_edit
+1	1	0	0	0	27605162	0	0	27605162	0	0	591	/public/assets/img/flags/nc.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	474	/public/assets/img/flags/ml.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	481	/public/assets/img/flags/lu.png
+1	3	0	0	0	27605307	0	0	27604800	0	0	0	/public/assets/fonts/la-brands-400.ttf
+1	1	0	0	0	27605162	0	0	27605162	0	0	374	/public/assets/img/flags/pl.png
+1	0	0	0	6	0	0	27604974	0	0	27604900	0	/static/admin/javascript/hetong.js
+1	74	0	0	0	27605355	0	0	27604800	0	0	812887	/public/assets/img/warning.png
+1	4	0	0	0	27605245	0	0	27604800	0	0	84	/admin/business-settings/update/activation
+1	1	0	0	0	27605162	0	0	27605162	0	0	420	/public/assets/img/flags/ru.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	436	/public/assets/img/flags/sl.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	624	/public/assets/img/flags/tc.png
+1	7	0	0	0	27605241	0	0	27605204	0	0	56620	/admin/website/custom-pages/create
+1	1	0	0	0	27605162	0	0	27605162	0	0	591	/public/assets/img/flags/ag.png
+1	1	0	0	0	27604800	0	0	27604800	0	0	33186	/cPanel_magic_revision_1677708914/unprotected/cpanel/style_v2_optimized.css
+1	1	0	0	0	27605162	0	0	27605162	0	0	514	/public/assets/img/flags/by.png
+1	0	0	2	2	0	27604828	27604828	0	27604823	27604823	0	/ads.txt
+1	10	0	0	1	27605159	0	27604841	27604810	0	27604841	137523	/admin/customers
+1	0	0	3	8	0	27605155	27604821	0	27604806	27604806	0	/import_sql
+1	3	0	0	4	27605157	0	27605144	27605153	0	27605143	382024	/_debugbar/assets/javascript?v=1681708597
+1	0	0	2	2	0	27604800	27604800	0	27604800	27604800	0	/server-status
+1	2	0	0	0	27604807	0	0	27604807	0	0	7266	/public/assets/img/500.svg
+1	1	0	0	0	27605162	0	0	27605162	0	0	643	/public/assets/img/flags/ky.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	453	/public/assets/img/flags/mg.png
+1	0	0	7	4	0	27605155	27604814	0	27604806	27604814	0	/database_installation
+1	5	0	0	0	27605245	0	0	27604805	0	0	21535	/public/assets/img/cards/authorizenet.png
+1	58	0	0	0	27605317	0	0	27604800	0	0	16637445	/public/uploads/all/AWPw87OVq3bDka6ATnds8srl2sINwSiAKTpwj1RR.jpg
+1	47	0	0	0	27605317	0	0	27604800	0	0	14354928	/public/uploads/all/NLQDBN6LBqGVh7xiOWsFFJh3GNNMNdFIVXE5eQjk.jpg
+1	1	0	0	0	27605162	0	0	27605162	0	0	593	/public/assets/img/flags/pg.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	468	/public/assets/img/flags/sg.png
+1	51	0	0	0	27605307	0	0	27604800	0	0	9217584	/public/uploads/all/epxfBwtnSZxKM0oCZu2xkN28brnsgl1DQt6M5uwa.jpg
+1	7	0	0	0	27605290	0	0	27604816	0	0	44305	/admin/product-bulk-export
+1	0	0	1	1	0	27604823	27604823	0	27604823	27604823	0	/humans.txt
+1	1	0	1	2	27604800	27604800	27604800	27604800	27604800	27604800	0	/.DS_Store
+1	5	0	1	0	27604845	27604842	0	27604840	27604842	0	126516	/support_ticket
+1	1	0	0	0	27605162	0	0	27605162	0	0	630	/public/assets/img/flags/vg.png
+1	7	0	0	0	27605306	0	0	27604801	0	0	360985	/category/seyahat-ve-gezi-jcaff
+1	1	0	0	0	27604901	0	0	27604901	0	0	26833	/product/vestoj
+1	1	0	0	0	27605162	0	0	27605162	0	0	586	/public/assets/img/flags/ck.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	631	/public/assets/img/flags/bt.png
+1	1	0	0	0	27604834	0	0	27604834	0	0	4500	/cart/addtocart
+1	2	0	0	2	27604800	0	27604800	27604800	0	27604800	0	/telescope/requests
+1	14	0	0	0	27604919	0	0	27604858	0	0	881	/ajax-search
+1	3	0	0	0	27605307	0	0	27604800	0	0	0	/public/assets/fonts/la-solid-900.woff
+1	3	0	0	0	27605307	0	0	27604800	0	0	0	/public/assets/fonts/la-brands-400.svg
+1	1	0	0	0	27605162	0	0	27605162	0	0	592	/public/assets/img/flags/et.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	648	/public/assets/img/flags/fk.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	599	/public/assets/img/flags/gb.png
+1	2	0	0	0	27604856	0	0	27604856	0	0	12297	/admin/languages/5?search="Password+must+contain+at+least+6+digits
+1	38	0	0	0	27605307	0	0	27604800	0	0	678176	/public/assets/fonts/la-brands-400.woff2
+1	189	0	0	0	27605320	0	0	27604800	0	0	1995048	/public/uploads/all/vYHOoLPKnCjophYaiW0lv9hHX2w6fRwkmmhAdYQ2.webp
+1	1	0	0	0	27605162	0	0	27605162	0	0	487	/public/assets/img/flags/ht.png
+1	16	0	4	0	27605307	27605306	0	27604800	27604800	0	724678	/privacy-policy
+1	1	0	0	0	27605162	0	0	27605162	0	0	627	/public/assets/img/flags/lk.png
+1	11	0	0	0	27605292	0	0	27604800	0	0	91117	/admin/activation
+1	0	0	0	1	0	0	27604871	0	0	27604871	0	/demo/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+1	1	0	0	0	27605162	0	0	27605162	0	0	624	/public/assets/img/flags/sb.png
+1	2	0	0	2	27604800	0	27604800	27604800	0	27604800	0	/debug/default/view?panel=config
+1	0	0	0	5	0	0	27604871	0	0	27604827	0	/core/app/.env
+1	0	0	0	1	0	0	27604811	0	0	27604811	0	http://dergidunyasi.com.tr:80/favicon.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	617	/public/assets/img/flags/tt.png
+1	2	0	0	0	27605274	0	0	27605269	0	0	17451	/admin/categories/edit/13?lang=tr
+1	1	0	0	0	27605162	0	0	27605162	0	0	663	/public/assets/img/flags/ax.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	500	/public/assets/img/flags/bo.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	614	/public/assets/img/flags/cf.png
+1	1	0	0	0	27605205	0	0	27605205	0	0	8349	/admin/website/custom-pages/edit/return-policy?lang=tr
+1	0	0	0	5	0	0	27604871	0	0	27604828	0	/laravel/.env
+1	68	0	0	0	27605317	0	0	27604800	0	0	9932076	/public/uploads/all/rFMad08mSx5F7k0gzejoIGwS1MlUoGLkZIioFqFj.jpg
+1	3	0	0	0	27605307	0	0	27604800	0	0	0	/public/assets/css/font/summernote.woff
+1	0	0	3	2	0	27604827	27604807	0	27604809	27604807	0	/admin/profile/9
+1	1	0	0	0	27604825	0	0	27604825	0	0	64	/.well-known/acme-challenge/ILD-F7WFNBA90N4LB45QT2FXZ5P0C39K
+1	1	0	0	0	27605162	0	0	27605162	0	0	512	/public/assets/img/flags/no.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	574	/public/assets/img/flags/mx.png
+1	186	0	0	14	27605320	0	27605321	27604800	0	27604807	39540	/home/section/best_selling
+1	6	0	1	0	27605255	27605255	0	27604816	27605255	0	45787	/admin/attributes
+1	0	0	1	0	0	27604845	0	0	27604845	0	0	/admin/customers/destroy/17
+1	8	0	0	0	27605306	0	0	27604801	0	0	382523	/category/teknoloji-ve-bilim-olbwy
+1	5	0	0	0	27605260	0	0	27604808	0	0	117080	/public/assets/img/wallet-bg.png
+1	1	0	0	0	27604854	0	0	27604854	0	0	64	/.well-known/acme-challenge/EDS31DLGYHIP_2U6U9ZJSA9N_2KVX_21
+1	1	0	0	0	27605162	0	0	27605162	0	0	426	/public/assets/img/flags/to.png
+1	0	0	0	5	0	0	27604871	0	0	27604827	0	/lab/.env
+1	1	0	0	0	27604800	0	0	27604800	0	0	522	/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/open_sans.min.css
+1	1	0	0	0	27605162	0	0	27605162	0	0	647	/public/assets/img/flags/as.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	486	/public/assets/img/flags/bj.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	628	/public/assets/img/flags/ca.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	649	/public/assets/img/flags/scotland.png
+1	1	0	0	0	27604896	0	0	27604896	0	0	26698	/product/nereye-tripolis-yamac-kent
+1	1	0	0	0	27604854	0	0	27604854	0	0	64	/.well-known/acme-challenge/R62C66CMOLRE2NJ5CCIJCFB9ZGN0QCQG
+1	1	0	0	5	27605155	0	27604892	27605155	0	27604806	14143	/step5
+1	0	0	5	5	0	27604871	27604871	0	27604827	27604827	0	/.local
+1	7	0	0	0	27605155	0	0	27604806	0	0	82076	/step4
+1	4	0	0	0	27605153	0	0	27604805	0	0	40104	/step3
+1	0	0	0	5	0	0	27604871	0	0	27604827	0	/tools/.env
+1	4	0	0	0	27605153	0	0	27604804	0	0	42975	/step2
+1	1	0	0	0	27605162	0	0	27605162	0	0	630	/public/assets/img/flags/gs.png
+1	4	0	0	2	27605153	0	27604814	27604804	0	27604814	40443	/step1
+1	5	0	0	0	27605245	0	0	27604805	0	0	29795	/public/assets/img/cards/bkash.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	563	/public/assets/img/flags/la.png
+1	6	0	0	0	27605307	0	0	27604800	0	0	329796	/blog/blog-yazmza-ho-geldiniz
+1	0	0	0	5	0	0	27604871	0	0	27604828	0	/blog/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+1	1	0	0	0	27605162	0	0	27605162	0	0	614	/public/assets/img/flags/ms.png
+1	2	0	0	0	27605269	0	0	27605268	0	0	17452	/admin/categories/edit/5?lang=tr
+1	2	0	0	0	27604857	0	0	27604857	0	0	12226	/admin/languages/5?search=Compare+Products
+1	2	0	0	2	27604800	0	27604800	27604800	0	27604800	0	/.vscode/sftp.json
+1	1	0	0	0	27605162	0	0	27605162	0	0	472	/public/assets/img/flags/ps.png
+1	4	0	0	0	27604939	0	0	27604837	0	0	23488	/admin/conversations
+1	1	0	0	0	27605162	0	0	27605162	0	0	496	/public/assets/img/flags/tj.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	446	/public/assets/img/flags/ua.png
+1	0	0	1	0	0	27604894	0	0	27604894	0	0	/admin/products/duplicate/1?type=All
+1	4	4	13	0	27605219	27605121	0	27604811	27604803	0	11566	http://dergidunyasi.com.tr:80/
+1	1	0	0	0	27605162	0	0	27605162	0	0	488	/public/assets/img/flags/an.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	449	/public/assets/img/flags/be.png
+1	1	0	0	0	27605157	0	0	27605157	0	0	3071	/_debugbar/open?op=get&id=X82a9af0f4053f92417e70f9d0f2fe185
+1	0	0	1	0	0	27605264	0	0	27605264	0	0	/admin/categories/9
+1	1	0	0	0	27605162	0	0	27605162	0	0	429	/public/assets/img/flags/ee.png
+1	0	0	1	0	0	27605272	0	0	27605272	0	0	/admin/categories/8
+1	0	0	1	0	0	27605271	0	0	27605271	0	0	/admin/categories/7
+1	0	0	1	0	0	27605270	0	0	27605270	0	0	/admin/categories/6
+1	0	0	1	0	0	27605269	0	0	27605269	0	0	/admin/categories/5
+1	19	0	9	0	27605318	27605306	0	27604800	27604801	0	791357	/brands
+1	0	0	3	0	0	27605307	0	0	27604800	0	0	/compare/reset
+1	0	0	1	0	0	27605268	0	0	27605268	0	0	/admin/categories/4
+1	1	0	0	0	27605162	0	0	27605162	0	0	480	/public/assets/img/flags/gn.png
+1	0	0	2	0	0	27605267	0	0	27605256	0	0	/admin/categories/3
+1	1	0	0	0	27604939	0	0	27604939	0	0	5895	/admin/commission-log
+1	0	0	5	0	0	27605266	0	0	27605254	0	0	/admin/categories/2
+1	0	0	5	0	0	27605265	0	0	27605253	0	0	/admin/categories/1
+1	1	0	0	0	27604825	0	0	27604825	0	0	64	/.well-known/acme-challenge/DZS3Q52K1UAE9KU4ST6327X-NZ5_ZB3K
+1	2	0	0	0	27605121	0	0	27605121	0	0	14854	http://dergidunyasi.com.tr:80/public/uploads/all/kSdTeeKoXL5eD20ALjc1Gwuk2JEKUAvbISorqBGP.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	569	/public/assets/img/flags/ke.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	398	/public/assets/img/flags/catalonia.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	537	/public/assets/img/flags/ne.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	492	/public/assets/img/flags/mn.png
+1	1	0	0	0	27605164	0	0	27605164	0	0	0	/language
+1	1	0	0	0	27605162	0	0	27605162	0	0	657	/public/assets/img/flags/pn.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	533	/public/assets/img/flags/rw.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	532	/public/assets/img/flags/sn.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	474	/public/assets/img/flags/vn.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	643	/public/assets/img/flags/ai.png
+1	187	0	0	0	27605320	0	0	27604800	0	0	6674176	/public/uploads/all/ufeexNDUpvbX1a9XfKZQGKVkIAaV4RReB3d4QTLA.webp
+1	2	0	0	0	27604940	0	0	27604808	0	0	12527	/admin/system/server-status
+1	0	0	2	0	0	27605225	0	0	27605199	0	0	/admin/your-currency/update
+1	1	0	0	0	27605162	0	0	27605162	0	0	477	/public/assets/img/flags/cr.png
+1	0	0	0	5	0	0	27604871	0	0	27604827	0	/admin/.env
+1	0	0	0	5	0	0	27604871	0	0	27604828	0	/v1/.env
+1	1	0	0	0	27605162	0	0	27605162	0	0	463	/public/assets/img/flags/gi.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	545	/public/assets/img/flags/fr.png
+1	0	0	6	0	0	27605242	0	0	27605205	0	0	/admin/website/custom-pages
+1	15	0	0	0	27605307	0	0	27604800	0	0	64500	/public/assets/fonts/la-regular-400.woff2
+1	1	0	0	0	27605162	0	0	27605162	0	0	512	/public/assets/img/flags/ir.png
+1	2	2	2	0	27604800	27604800	0	27604800	27604800	0	11563	/?rest_route=/wp/v2/users/
+1	3	0	0	0	27605307	0	0	27604800	0	0	0	/public/assets/fonts/la-brands-400.eot
+1	0	0	1	0	0	27605290	0	0	27605290	0	0	/admin/brands/2
+1	5	0	0	0	27605245	0	0	27604805	0	0	191285	/public/assets/img/cards/paystack.png
+1	37	0	0	0	27605257	0	0	27604800	0	0	173900	/public/uploads/all/GaSi1BBDMU7ZFD5aOamRQKMpVjKqvWgHaCkmShQ2.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	466	/public/assets/img/flags/lr.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	10337	/admin/languages/create
+1	4	0	0	0	27605292	0	0	27604804	0	0	26418	/admin/order-configuration
+1	28	0	5	0	27605291	27605228	0	27604803	27604802	0	236425	/admin
+1	16	0	7	0	27605321	27605306	0	27604800	27604800	0	774597	/category/saglik-ve-yasam
+1	1	0	0	0	27605162	0	0	27605162	0	0	510	/public/assets/img/flags/si.png
+1	1	0	0	37	27604840	0	27605310	27604840	0	27604801	12289	/favicon.ico
+1	1	0	0	0	27605162	0	0	27605162	0	0	496	/public/assets/img/flags/england.png
+1	2	0	0	0	27604840	0	0	27604838	0	0	187360	/public/uploads/all/GIssB06ieIM09ZENV8qBmrm2AAxNH52UKuKMlv4i.png
+1	0	0	1	0	0	27604938	0	0	27604938	0	0	/admin/profile?66.249.93.63
+1	1	0	0	0	27605162	0	0	27605162	0	0	616	/public/assets/img/flags/vi.png
+1	1	0	0	0	27604834	0	0	27604834	0	0	26255	/category/otomobil-ve-motorlu-tatlar-dapyp?min_price=15.00&max_price=34.64&keyword=&brand=&sort_by=
+1	0	0	0	5	0	0	27604871	0	0	27604827	0	/api/.env
+1	1	0	0	0	27605157	0	0	27605157	0	0	10559	/public/assets/img/logo.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	643	/public/assets/img/flags/ad.png
+1	4	0	0	0	27604867	0	0	27604818	0	0	612856	/public/uploads/all/cD5C2XMJjaDhuIJTSRPAe5drTOu2UB64KufPoxYY.jpg
+1	83	0	0	0	27605355	0	0	27604800	0	0	201360	/public/assets/img/placeholder.jpg
+1	0	0	0	5	0	0	27604871	0	0	27604827	0	/lib/.env
+1	1	0	0	0	27605162	0	0	27605162	0	0	525	/public/assets/img/flags/cm.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	512	/public/assets/img/flags/bv.png
+1	29	0	0	0	27605292	0	0	27604803	0	0	232522	/admin/website/header
+1	0	0	17	0	0	27605306	0	0	27604801	0	0	/logout
+1	1	0	0	0	27605162	0	0	27605162	0	0	652	/public/assets/img/flags/wales.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	552	/public/assets/img/flags/fm.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	637	/public/assets/img/flags/gd.png
+1	5	0	0	0	27605292	0	0	27604805	0	0	36724	/admin/smtp-settings
+1	1	0	0	0	27605162	0	0	27605162	0	0	566	/public/assets/img/flags/md.png
+1	3	0	0	0	27605307	0	0	27604800	0	0	0	/public/assets/fonts/la-brands-400.eot?
+1	1	0	0	0	27604800	0	0	27604800	0	0	320	/cPanel_magic_revision_1677704259/unprotected/cpanel/images/icon-username.png
+1	0	0	5	5	0	27604871	27604871	0	27604827	27604827	0	/.remote
+1	1	0	0	0	27605162	0	0	27605162	0	0	478	/public/assets/img/flags/om.png
+1	8	0	0	0	27605307	0	0	27604800	0	0	382429	/category/tarih-ve-arkeoloji-2goim
+1	78	0	0	0	27605355	0	0	27604800	0	0	4707436	/public/uploads/all/z4tiOPSXXTdWGSSVpRcE9MB79TC1EBIAMBlasXhd.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	492	/public/assets/img/flags/sd.png
+1	1	0	0	0	27605319	0	0	27605319	0	0	8111	/admin/blog/create
+1	8	0	5	0	27605307	27605307	0	27604800	27604800	0	477863	/nakliyepolitikasi
+1	1	0	0	0	27605162	0	0	27605162	0	0	536	/public/assets/img/flags/tv.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	571	/public/assets/img/flags/um.png
+1	2	0	0	0	27605275	0	0	27605269	0	0	17467	/admin/categories/edit/14?lang=tr
+1	3	0	0	0	27605307	0	0	27604800	0	0	0	/public/assets/fonts/la-regular-400.ttf
+1	0	0	0	5	0	0	27604871	0	0	27604827	0	/assets/.env
+1	80	0	0	0	27605307	0	0	27604800	0	0	61560	/public/assets/css/font/summernote.woff2
+1	1	0	0	0	27605162	0	0	27605162	0	0	367	/public/assets/img/flags/ch.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	589	/public/assets/img/flags/az.png
+1	2	0	0	0	27604854	0	0	27604854	0	0	12223	/admin/languages/5?search=Welcome+Back+!
+1	146	0	0	0	27605312	0	0	27604800	0	0	572715	/public/uploads/all/b4jNnq8Ust98un6YZ4kssWrOalXYSAZg50NMxBH9.png
+1	42	0	0	0	27605313	0	0	27604817	0	0	732	/aiz-uploader/upload
+1	1	0	0	0	27605162	0	0	27605162	0	0	582	/public/assets/img/flags/dz.png
+1	1	0	0	0	27604800	0	0	27604800	0	0	1026	/cPanel_magic_revision_1677704259/unprotected/cpanel/images/notice-error.png
+1	4	0	0	0	27605249	0	0	27605247	0	0	36092	/admin/languages/5?search=email
+1	1	0	0	0	27604817	0	0	27604817	0	0	132548	/_debugbar/assets/javascript?v=1681667191
+1	0	0	0	1	0	0	27604871	0	0	27604871	0	/dev/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+1	0	0	1	0	0	27605212	0	0	27605212	0	0	/admin/website/custom-pages/6
+1	0	0	1	0	0	27605210	0	0	27605210	0	0	/admin/website/custom-pages/5
+1	0	0	1	0	0	27605209	0	0	27605209	0	0	/admin/website/custom-pages/4
+1	0	0	1	0	0	27605207	0	0	27605207	0	0	/admin/website/custom-pages/3
+1	0	0	1	0	0	27605289	0	0	27605289	0	0	/admin/brands/destroy/1
+1	1	0	0	0	27604898	0	0	27604898	0	0	122944	/public/uploads/all/DEW0PEFxAn7Xzb2K4f6DH1NvTLr70Xn7RTe1mmv9.jpg
+1	16	0	4	0	27605306	27605306	0	27604800	27604800	0	721556	/support-policy
+1	1	0	0	0	27605162	0	0	27605162	0	0	584	/public/assets/img/flags/mz.png
+1	1	0	0	0	27605196	0	0	27605196	0	0	586	/admin/currency/create
+1	11	0	8	0	27605318	27605306	0	27604836	27604801	0	459196	/blog
+1	2	0	0	0	27605290	0	0	27604894	0	0	14420	/admin/digitalproducts
+1	1	0	0	0	27604854	0	0	27604854	0	0	64	/.well-known/acme-challenge/-S__PT05PBDMIOMCOYJX5XAALG3MJ6-5
+1	1	0	0	0	27605162	0	0	27605162	0	0	643	/public/assets/img/flags/sz.png
+1	0	0	1	0	0	27605254	0	0	27605254	0	0	/admin/attributes/1
+1	1	0	0	0	27605162	0	0	27605162	0	0	625	/public/assets/img/flags/cc.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	673	/public/assets/img/flags/au.png
+1	12	0	0	0	27605288	0	0	27604802	0	0	722388	/public/uploads/all/7qfpcVw7Bha1V97GtVvLuA7fBjISA5lRwxNQAMCc.jpg
+1	1	0	0	0	27605319	0	0	27605319	0	0	7276	/admin/blog-category/create
+1	0	0	1	0	0	27605255	0	0	27605255	0	0	/admin/attributes/destroy/2
+1	1	0	0	0	27605162	0	0	27605162	0	0	509	/public/assets/img/flags/gu.png
+1	2	0	0	6	27604840	0	27604847	27604840	0	27604840	24976	/phpmyadmin/index.php
+1	51	0	0	0	27605317	0	0	27604800	0	0	13829874	/public/uploads/all/zXGpBHRZS5pkdrWN0Gcg0lAdEJGkogAUI9t27GsK.jpg
+1	3	0	6	0	27604903	27605306	0	27604837	27604801	0	72740	/wishlists
+1	1	0	0	0	27605162	0	0	27605162	0	0	520	/public/assets/img/flags/lc.png
+1	974	0	0	0	27605355	0	0	27604800	0	0	1113874	/public/assets/js/aiz-core.js
+1	1	0	0	0	27605157	0	0	27605157	0	0	3076	/_debugbar/open?op=get&id=Xa87dd1d0b73ff758df22fae6f4c1d7bc
+1	0	0	0	4	0	0	27604871	0	0	27604828	0	/cms/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+1	1	0	0	0	27605162	0	0	27605162	0	0	453	/public/assets/img/flags/nl.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	496	/public/assets/img/flags/mu.png
+1	3	0	0	0	27605307	0	0	27604800	0	0	0	/public/assets/fonts/la-regular-400.svg
+1	2	0	0	0	27605270	0	0	27605269	0	0	17465	/admin/categories/edit/6?lang=tr
+1	3	0	0	4	27605157	0	27605144	27605153	0	27605143	391104	/_debugbar/assets/stylesheets?v=1681708596&theme=auto
+1	1	0	0	0	27605162	0	0	27605162	0	0	514	/public/assets/img/flags/tl.png
+1	19	0	4	0	27605306	27605306	0	27604800	27604800	0	793215	/terms
+1	982	0	0	0	27605355	0	0	27604800	0	0	13894823	/public/assets/css/vendors.css
+1	51	0	0	0	27605317	0	0	27604800	0	0	8322700	/public/uploads/all/YPl8difMSbmCOlTPemV2TXtl7BjD6Hb6o3SHAXRx.jpg
+1	0	0	1	0	0	27604806	0	0	27604806	0	0	/admin/tax/3
+1	1	0	0	0	27605162	0	0	27605162	0	0	604	/public/assets/img/flags/vu.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	462	/public/assets/img/flags/bg.png
+1	1	0	0	0	27604800	0	0	27604800	0	0	900	/cPanel_magic_revision_1677704259/unprotected/cpanel/images/cp-logo.svg
+1	1	0	0	0	27605162	0	0	27605162	0	0	465	/public/assets/img/flags/eg.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	428	/public/assets/img/flags/cy.png
+1	1	0	0	0	27604894	0	0	27604894	0	0	6801	/admin/digitalproducts/create
+1	0	0	2	0	0	27604843	0	0	27604842	0	0	/admin/support_ticket/reply
+1	1	0	0	0	27605162	0	0	27605162	0	0	488	/public/assets/img/flags/gp.png
+1	19	0	7	0	27605317	27605306	0	27604800	27604800	0	817572	/category/moda-ve-g%C3%BCzellik
+1	1	0	0	0	27604825	0	0	27604825	0	0	64	/.well-known/acme-challenge/OX2ZIW60IZDUCES47Z1M23DXJ0ELESTN
+1	1	0	0	0	27605162	0	0	27605162	0	0	510	/public/assets/img/flags/kg.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	420	/public/assets/img/flags/jp.png
+1	1	0	0	0	27604800	0	0	27604800	0	0	22908	/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff
+1	1	0	0	0	27605162	0	0	27605162	0	0	482	/public/assets/img/flags/ng.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	597	/public/assets/img/flags/mp.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	419	/public/assets/img/flags/ly.png
+1	2	0	0	0	27605254	0	0	27605254	0	0	15131	/admin/attributes/edit/1?lang=tr
+1	0	0	0	5	0	0	27604871	0	0	27604827	0	/core/.env
+1	1	0	0	0	27604801	0	0	27604801	0	0	54210	/public/assets/js/intlTelutils.js?1590403638580
+1	0	0	0	5	0	0	27604871	0	0	27604827	0	/psnlink/.env
+1	4	0	0	0	27604806	0	0	27604805	0	0	26895	/admin/tax
+1	5	0	0	0	27605245	0	0	27604805	0	0	596455	/public/assets/img/cards/vogue.png
+1	62	0	0	0	27605317	0	0	27604800	0	0	12609553	/public/uploads/all/gqU38xF64DgMunle74rzymGERkgc4xzAogK04LVc.jpg
+1	0	0	2	2	0	27604800	27604800	0	27604800	27604800	0	/config.json
+1	1	0	0	0	27605162	0	0	27605162	0	0	562	/public/assets/img/flags/tg.png
+1	72	0	0	0	27605317	0	0	27604800	0	0	14873930	/public/uploads/all/UryxZIaNtFC6suoDR9W63UcUfaPAmITpiwRlxTLX.jpg
+1	0	0	2	2	0	27604800	27604800	0	27604800	27604800	0	/about
+1	185	0	0	14	27605320	0	27605321	27604800	0	27604807	7190	/home/section/best_sellers
+1	0	0	2	2	0	27604800	27604800	0	27604800	27604800	0	/info.php
+1	4	0	0	0	27605289	0	0	27604816	0	0	31672	/admin/brands
+1	1	0	0	0	27605162	0	0	27605162	0	0	532	/public/assets/img/flags/uy.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	585	/public/assets/img/flags/bb.png
+1	1	0	0	0	27604854	0	0	27604854	0	0	64	/.well-known/acme-challenge/M9POVL1EN50H39UOL0PQ_5P7PYBBVOV3
+1	3	0	0	0	27604841	0	0	27604809	0	0	9010	/public/assets/img/404.svg
+1	1	0	0	0	27605162	0	0	27605162	0	0	495	/public/assets/img/flags/dk.png
+1	0	0	0	5	0	0	27604871	0	0	27604827	0	/en/.env
+1	101	0	0	0	27605355	0	0	27604800	0	0	640523	/public/assets/img/placeholder-rect.jpg
+1	20	0	23	2	27605228	27605228	27604836	27604802	27604803	27604809	43229	/login
+1	3	0	0	0	27605307	0	0	27604800	0	0	0	/public/assets/fonts/la-solid-900.ttf
+1	2	0	0	0	27605121	0	0	27605121	0	0	23156	http://dergidunyasi.com.tr:80/public/assets/img/warning.png
+1	3	0	0	0	27605321	0	0	27605321	0	0	261	/.well-known/acme-challenge/DK7nN7G4nKIZgHdjTc2LiGCQxxnFvLUxLdbId-LJX38
+1	1	0	0	0	27605157	0	0	27605157	0	0	3489	/_debugbar/open?op=get&id=Xee44ed32cb22e0ead06a967baf4ae34d
+1	1	0	0	0	27605162	0	0	27605162	0	0	420	/public/assets/img/flags/it.png
+1	8	0	0	0	27605265	0	0	27605252	0	0	68861	/admin/categories/edit/1?lang=tr
+1	58	0	0	0	27605317	0	0	27604800	0	0	13739940	/public/uploads/all/SNLFn9Fog23SuHPA8QtQJcGrqjX3yLuTWHHfG9le.jpg
+1	3	0	5	0	27604903	27605307	0	27604836	27604800	0	73848	/purchase_history
+1	1	0	0	0	27605162	0	0	27605162	0	0	664	/public/assets/img/flags/mk.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	508	/public/assets/img/flags/lt.png
+1	2	0	0	2	27604800	0	27604800	27604800	0	27604800	0	/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
+1	1	0	0	0	27605162	0	0	27605162	0	0	569	/public/assets/img/flags/pk.png
+1	6	0	0	0	27605307	0	0	27604800	0	0	339750	/category/mizah-ve-elence-czdzb
+1	1	0	0	0	27605162	0	0	27605162	0	0	562	/public/assets/img/flags/sk.png
+1	186	0	0	14	27605320	0	27605321	27604800	0	27604807	0	/home/section/featured
+1	8	0	0	0	27605307	0	0	27604800	0	0	356242	/cart
+1	1	0	0	0	27605162	0	0	27605162	0	0	604	/public/assets/img/flags/af.png
+1	9	0	0	0	27604901	0	0	27604830	0	0	716	/product/variant_price
+1	1	0	0	0	27605162	0	0	27605162	0	0	483	/public/assets/img/flags/co.png
+1	1	0	0	0	27604845	0	0	27604845	0	0	24872	/support_ticket/eyJpdiI6InhHMFdXL0ZkY3ZHSDhkVjdWY1U5d3c9PSIsInZhbHVlIjoiUHJzMzI3TENVaTVsNFMyL3REN3NNUT09IiwibWFjIjoiZWMyODMwNDU0NjNhNGZlYTRkY2M3MDIxZjA2NzUyYTNlOWFjN2JiNGE2NjBkZWE0ZjY3YTc2OTNkNDQ3MDdhZCIsInRhZyI6IiJ9
+1	1	0	0	0	27605162	0	0	27605162	0	0	545	/public/assets/img/flags/gf.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	474	/public/assets/img/flags/fo.png
+1	5	0	0	0	27605245	0	0	27604805	0	0	250525	/public/assets/img/cards/mercadopago.png
+1	0	0	0	5	0	0	27604871	0	0	27604828	0	/api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+1	1	0	0	0	27605162	0	0	27605162	0	0	658	/public/assets/img/flags/io.png
+1	36	0	0	0	27605225	0	0	27605196	0	0	756	/admin/currency/update_status
+1	7	0	0	0	27605292	0	0	27604800	0	0	172774	/public/assets/img/cards/paypal.png
+1	3	0	0	0	27604841	0	0	27604838	0	0	75922	/wallet
+1	1	0	0	0	27604940	0	0	27604940	0	0	6472	/admin/addons
+1	1	0	0	0	27605162	0	0	27605162	0	0	498	/public/assets/img/flags/pf.png
+1	2	0	0	0	27604893	0	0	27604834	0	0	57479	/product/traveller-world
+1	1	0	0	0	27605162	0	0	27605162	0	0	495	/public/assets/img/flags/ro.png
+1	3	0	0	0	27605307	0	0	27604800	0	0	0	/public/assets/fonts/la-solid-900.svg
+1	1	0	0	0	27604893	0	0	27604893	0	0	26508	/product/nereye-turkiyede-arkeoloji
+1	2	0	0	0	27605276	0	0	27605269	0	0	17464	/admin/categories/edit/15?lang=tr
+1	1	0	0	0	27605162	0	0	27605162	0	0	526	/public/assets/img/flags/bs.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	489	/public/assets/img/flags/ga.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	610	/public/assets/img/flags/fj.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	469	/public/assets/img/flags/es.png
+1	3	0	0	0	27605160	0	0	27605159	0	0	60898	/admin/sellers
+1	0	0	1	0	0	27605196	0	0	27605196	0	0	/admin/currency/store
+1	9	0	0	0	27605307	0	0	27604800	0	0	376547	/password/reset
+1	1	0	0	0	27605162	0	0	27605162	0	0	432	/public/assets/img/flags/ma.png
+1	2	0	0	0	27604840	0	0	27604800	0	0	5264	/cPanel_magic_revision_1677704259/unprotected/cpanel/images/cpanel-logo.svg
+1	2	0	10	25	27604840	27605308	27605308	27604840	27604813	27604813	26	/robots.txt
+1	1	0	0	0	27605162	0	0	27605162	0	0	519	/public/assets/img/flags/pa.png
+1	1	0	0	0	27604825	0	0	27604825	0	0	64	/.well-known/acme-challenge/VVGNKJBENNQG7ECIPKIPRBO8X-85V60D
+1	8	0	0	0	27605228	0	0	27604803	0	0	4408	/public/assets/img/flags/sa.png
+1	0	0	0	5	0	0	27604871	0	0	27604827	0	/public/.env
+1	161	0	0	0	27605319	0	0	27604817	0	0	279903	/aiz-uploader/get_uploaded_files?sort=newest
+1	1	0	0	0	27605207	0	0	27605207	0	0	9173	/admin/website/custom-pages/edit/alicipolitikasi?lang=tr
+1	3	0	0	0	27605307	0	0	27604800	0	0	0	/public/assets/fonts/la-regular-400.eot
+1	1	0	0	0	27605162	0	0	27605162	0	0	553	/public/assets/img/flags/va.png
+1	7	0	0	0	27605306	0	0	27604801	0	0	361081	/category/letme-ve-finans-yx5tw
+1	0	0	0	5	0	0	27604871	0	0	27604827	0	/exapi/.env
+1	1	0	0	0	27605162	0	0	27605162	0	0	476	/public/assets/img/flags/ws.png
+1	0	0	0	5	0	0	27604871	0	0	27604827	0	/sitemaps/.env
+1	2	0	0	0	27605209	0	0	27605208	0	0	17558	/admin/website/custom-pages/edit/support-policy?lang=tr
+1	2	0	0	6	27604840	0	27604847	27604840	0	27604840	24988	/php/thinkphp/aaaffff123.php
+1	1	0	0	0	27605162	0	0	27605162	0	0	524	/public/assets/img/flags/aw.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	639	/public/assets/img/flags/bn.png
+1	1	0	0	0	27604802	0	0	27604802	0	0	21685	/search?keyword=
+1	1	0	0	0	27604837	0	0	27604837	0	0	6551	/admin/verification/form
+1	8	0	0	0	27605228	0	0	27604803	0	0	4872	/public/assets/img/flags/en.png
+1	1	0	0	0	27604900	0	0	27604900	0	0	5	/admin/products/published
+1	3	0	0	0	27605307	0	0	27604800	0	0	0	/public/assets/css/font/summernote.ttf
+1	1	0	0	0	27605162	0	0	27605162	0	0	537	/public/assets/img/flags/hn.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	481	/public/assets/img/flags/ie.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	516	/public/assets/img/flags/gw.png
+1	14	0	0	0	27605291	0	0	27604812	0	0	187348	/admin/products/create
+1	6	0	4	0	27605307	27605307	0	27604800	27604800	0	425040	/kvkksozlesmesi
+1	1	0	0	0	27605162	0	0	27605162	0	0	604	/public/assets/img/flags/kn.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	479	/public/assets/img/flags/europeanunion.png
+1	0	0	5	0	0	27605227	0	0	27604801	0	0	/admin/clear-cache
+1	1	0	0	0	27605162	0	0	27605162	0	0	529	/public/assets/img/flags/mw.png
+1	2	0	0	0	27605271	0	0	27605269	0	0	17467	/admin/categories/edit/7?lang=tr
+1	1	0	0	0	27605162	0	0	27605162	0	0	550	/public/assets/img/flags/pw.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	545	/public/assets/img/flags/re.png
+1	114	0	0	0	27605355	0	0	27604800	0	0	816970	/public/uploads/all/kSdTeeKoXL5eD20ALjc1Gwuk2JEKUAvbISorqBGP.png
+1	2	0	0	0	27605272	0	0	27605269	0	0	17469	/admin/categories/edit/10?lang=tr
+1	3	0	0	0	27605307	0	0	27604800	0	0	0	/public/assets/fonts/la-brands-400.woff
+1	1	0	0	0	27605162	0	0	27605162	0	0	495	/public/assets/img/flags/tn.png
+1	1	0	0	0	27605209	0	0	27605209	0	0	8349	/admin/website/custom-pages/edit/terms?lang=tr
+1	16	0	12	0	27605306	27605306	0	27604809	27604801	0	548919	/flash-deals
+1	0	0	0	3	0	0	27605217	0	0	27605217	0	/currency
+1	86	0	0	0	27605319	0	0	27604800	0	0	3321530	/users/login
+1	1	0	0	0	27604825	0	0	27604825	0	0	64	/.well-known/acme-challenge/X_GHCD3VAR5HOOXKOO8XFQ5GA6A1WYG8
+1	1	0	0	0	27604898	0	0	27604898	0	0	120295	/public/uploads/all/AhOJDAbSQpehNLcyV5Dr4FPUkx119WmvJwZ4cXVs.jpg
+1	1	0	0	0	27605162	0	0	27605162	0	0	506	/public/assets/img/flags/ar.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	675	/public/assets/img/flags/bi.png
+1	13	0	1	0	27604924	27604840	0	27604813	27604840	0	24562	/sitemap.xml
+1	185	0	0	14	27605320	0	27605321	27604800	0	27604807	288392	/home/section/home_categories
+1	12	12	4	0	27605162	27604860	0	27604802	27604820	0	541874	/?66.249.93.63
+1	0	0	0	1	0	0	27604866	0	0	27604866	0	/.env?66.249.93.63
+1	5	0	1	0	27605319	27605319	0	27604807	27605319	0	35477	/admin/blog-category
+1	0	0	0	5	0	0	27604871	0	0	27604828	0	/v2/.env
+1	1	0	0	0	27605162	0	0	27605162	0	0	487	/public/assets/img/flags/gr.png
+1	1	0	0	0	27605157	0	0	27605157	0	0	3491	/_debugbar/open?op=get&id=Xf12c11a00112cfcbb24f7ac42b635a31
+1	0	0	38	15	0	27605315	27605221	0	27605166	27605214	0	/admin/business-settings/update
+1	47	0	0	0	27605317	0	0	27604800	0	0	16437921	/public/uploads/all/vEoqS99v7HTvmORsTniNqCwxDowcG583916qx9dB.jpg
+1	0	0	0	3	0	0	27604974	0	0	27604900	0	/Public/home/js/check.js
+1	13	0	0	0	27605262	0	0	27605256	0	0	106879	/admin/categories/create
+1	1	0	0	0	27605162	0	0	27605162	0	0	656	/public/assets/img/flags/ki.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	569	/public/assets/img/flags/mr.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	508	/public/assets/img/flags/ni.png
+1	1	0	0	0	27605254	0	0	27605254	0	0	7539	/admin/attributes/edit/2?lang=tr
+1	3	0	0	0	27605321	0	0	27605321	0	0	261	/.well-known/acme-challenge/n8It-L1jXVXypnEW-psugKVTltdYCYnOpmIuAF_SJS0
+1	1	0	0	0	27605162	0	0	27605162	0	0	556	/public/assets/img/flags/pr.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	513	/public/assets/img/flags/sr.png
+1	1	0	0	0	27604825	0	0	27604825	0	0	64	/.well-known/acme-challenge/14NL6VRP9NG-W4C50755ZV0WW0E8M7D6
+1	30	0	0	0	27605294	0	0	27604803	0	0	303805	/admin/website/footer?lang=tr
+1	5	0	0	0	27605245	0	0	27604805	0	0	119620	/public/assets/img/cards/sslcommerz.png
+1	8	0	0	0	27605228	0	0	27604803	0	0	4032	/public/assets/img/flags/bd.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	497	/public/assets/img/flags/am.png
+1	0	0	5	0	0	27605307	0	0	27604800	0	0	/all-notifications
+1	5	0	0	0	27605298	0	0	27604807	0	0	136820	/public/uploads/all/qdXnTT8y5JrTt1s82K0QSFJHCgpoN4xuQ6zCjpF2.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	532	/public/assets/img/flags/fam.png
+1	2	0	0	0	27605255	0	0	27604816	0	0	13813	/reviews
+1	0	0	0	5	0	0	27604871	0	0	27604827	0	/vendor/.env
+1	1	0	0	0	27605162	0	0	27605162	0	0	620	/public/assets/img/flags/dm.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	529	/public/assets/img/flags/cv.png
+1	0	0	0	5	0	0	27604871	0	0	27604827	0	/database/.env
+1	11	0	1	0	27604848	27604915	0	27604807	27604915	0	66126	/admin/profile
+1	6	0	4	0	27605307	27605307	0	27604800	27604800	0	427041	/sartlarvekosullar
+1	0	0	0	5	0	0	27604871	0	0	27604827	0	/app/.env
+1	1	0	0	0	27605162	0	0	27605162	0	0	493	/public/assets/img/flags/gm.png
+1	3	0	0	0	27604893	0	0	27604892	0	0	79191	/product/nereye-rosetta-tasi
+1	1	0	0	0	27605162	0	0	27605162	0	0	637	/public/assets/img/flags/jm.png
+1	0	0	1	0	0	27604893	0	0	27604893	0	0	/admin/products/update/4
+1	0	0	0	1	0	0	27604811	0	0	27604811	0	/favicon.png
+1	0	0	2	0	0	27604893	0	0	27604824	0	0	/admin/products/update/3
+1	9	0	0	0	27605266	0	0	27605253	0	0	77533	/admin/categories/edit/2?lang=tr
+1	0	0	1	0	0	27604893	0	0	27604893	0	0	/admin/products/update/2
+1	0	0	3	0	0	27604896	0	0	27604893	0	0	/admin/products/update/1
+1	1	0	0	0	27604834	0	0	27604834	0	0	26898	/checkout
+1	1	0	0	0	27604800	0	0	27604800	0	0	450	/cPanel_magic_revision_1677704259/unprotected/cpanel/images/icon-password.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	465	/public/assets/img/flags/lv.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	483	/public/assets/img/flags/mm.png
+1	0	0	0	5	0	0	27604871	0	0	27604827	0	/site/.env
+1	5	0	0	0	27605245	0	0	27604805	0	0	141630	/public/assets/img/cards/rozarpay.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	689	/public/assets/img/flags/pm.png
+1	3	0	0	0	27605307	0	0	27604800	0	0	0	/public/assets/img/flags@2x.png
+1	2	0	0	0	27605290	0	0	27605289	0	0	15881	/admin/brands/edit/2?lang=tr
+1	1	0	0	0	27605162	0	0	27605162	0	0	502	/public/assets/img/flags/sm.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	570	/public/assets/img/flags/td.png
+1	1	0	0	0	27604940	0	0	27604940	0	0	6076	/admin/social-login
+1	1	0	0	0	27605198	0	0	27605198	0	0	9677	/admin/currency?page=3
+1	0	0	0	5	0	0	27604871	0	0	27604827	0	/uploads/.env
+1	1	0	0	0	27605197	0	0	27605197	0	0	10027	/admin/currency?page=2
+1	1	0	0	0	27605198	0	0	27605198	0	0	9780	/admin/currency?page=1
+1	3	0	0	0	27605307	0	0	27604800	0	0	0	/public/assets/fonts/la-solid-900.eot
+1	7	0	5	0	27605307	27605307	0	27604800	27604800	0	449387	/nakliyebilgisi
+1	1	0	0	0	27605162	0	0	27605162	0	0	600	/public/assets/img/flags/bz.png
+1	10	0	0	0	27605292	0	0	27604805	0	0	90287	/admin/currency
+1	1	0	0	0	27605162	0	0	27605162	0	0	490	/public/assets/img/flags/gh.png
+1	6	0	0	0	27605288	0	0	27604805	0	0	162810	/public/assets/img/cards/cod.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	515	/public/assets/img/flags/iq.png
+1	14	0	0	0	27605306	0	0	27604801	0	0	514355	/category/ev-ve-bahe-vpjpr
+1	8	0	0	0	27605292	0	0	27604804	0	0	75603	/admin/payment-method
+1	1	0	0	0	27605162	0	0	27605162	0	0	616	/public/assets/img/flags/kz.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	628	/public/assets/img/flags/mh.png
+1	2	0	0	0	27604844	0	0	27604843	0	0	48196	/conversations
+1	0	0	0	5	0	0	27604871	0	0	27604827	0	/web/.env
+1	1	0	0	0	27605162	0	0	27605162	0	0	538	/public/assets/img/flags/ph.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	639	/public/assets/img/flags/nz.png
+1	6	0	0	0	27605307	0	0	27604800	0	0	339777	/category/hobi-ve-el-ileri-vxmz0
+1	1	0	0	0	27605162	0	0	27605162	0	0	645	/public/assets/img/flags/sh.png
+1	0	0	1	0	0	27605159	0	0	27605159	0	0	/admin/customers/destroy/8
+1	1	0	0	0	27605156	0	0	27605156	0	0	15238	/system_settings
+1	4	0	1	0	27605320	27605320	0	27604807	27605320	0	30551	/admin/blog
+1	1	0	0	0	27605162	0	0	27605162	0	0	642	/public/assets/img/flags/tz.png
+1	1	0	0	0	27604854	0	0	27604854	0	0	64	/.well-known/acme-challenge/NEH2JEGTX00EAQRKZ-AZ0-HR9SA5R-TW
+1	16	0	7	0	27605306	27605306	0	27604800	27604800	0	743249	/category/yemek-ve-mutfak
+1	5	0	0	0	27605245	0	0	27604805	0	0	82850	/public/assets/img/cards/iyzico.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	450	/public/assets/img/flags/cl.png
+1	0	0	12	0	0	27605277	0	0	27604812	0	0	/admin/languages/key_value_store
+1	5	0	0	0	27605245	0	0	27604805	0	0	116325	/public/assets/img/cards/instamojo.png
+1	2	0	0	0	27604842	0	0	27604842	0	0	13207	/admin/support_ticket/eyJpdiI6ImwxQlJPekQxOXUyekJ4V29WZzd4OUE9PSIsInZhbHVlIjoiTkQzSXp2b3dFK3hlaUh6MnlUZzdBUT09IiwibWFjIjoiZmYzY2JjNTBhZTEyYWMyY2UzMzYwNmE0YzVkNGI4YjZkZjI3OTY5OWM3NDgyODhmMDA4NTEzZTAyZDljZTMxNCIsInRhZyI6IiJ9/show
+1	5	0	0	0	27605245	0	0	27604805	0	0	140090	/public/assets/img/cards/payhere.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	432	/public/assets/img/flags/hu.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	431	/public/assets/img/flags/il.png
+1	0	0	3	0	0	27604841	0	0	27604838	0	0	/user/update-profile
+1	0	0	1	0	0	27604808	0	0	27604808	0	0	/account-deletion
+1	9	0	0	0	27605291	0	0	27604812	0	0	75352	/admin/products/all
+1	1	0	0	0	27605162	0	0	27605162	0	0	324	/public/assets/img/flags/ku.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	380	/public/assets/img/flags/mc.png
+1	5	0	0	0	27605245	0	0	27604805	0	0	99530	/public/assets/img/cards/aamarpay.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	572	/public/assets/img/flags/nu.png
+1	2	0	0	6	27604840	0	27604847	27604840	0	27604840	24983	/PhpMyAdmin/index.php
+1	0	0	0	19	0	0	27605196	0	0	27604818	0	/public/assets/css/slick.min.css.map
+1	1	0	0	0	27605162	0	0	27605162	0	0	608	/public/assets/img/flags/sc.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	577	/public/assets/img/flags/vc.png
+1	1	0	0	0	27604854	0	0	27604854	0	0	64	/.well-known/acme-challenge/YR1A8L8TCZG6UUD8747VOUEH4WX2LC8A
+1	684	0	0	34	27605319	0	27605294	27604801	0	27604800	29865	/category/nav-element-list
+1	9	0	0	0	27604841	0	0	27604838	0	0	235699	/profile
+1	1	0	0	0	27604898	0	0	27604898	0	0	112479	/public/uploads/all/hshfY9FznVzgzdu9nEe3yHzfEsdlgSu16WUfwin5.jpg
+1	1	0	0	0	27605162	0	0	27605162	0	0	521	/public/assets/img/flags/cg.png
+1	70	0	0	0	27605317	0	0	27604800	0	0	12935487	/public/uploads/all/NsWgfLCPevpK7IAoBiIT4RGmnhf7zDtQ0MPasLEr.jpg
+1	1	0	0	0	27605162	0	0	27605162	0	0	645	/public/assets/img/flags/gy.png
+1	0	0	0	4	0	0	27604800	0	0	27604800	0	/.git/config
+1	14	0	1	0	27605292	27605162	0	27604805	27605162	0	117465	/admin/languages
+1	1	0	0	0	27605162	0	0	27605162	0	0	561	/public/assets/img/flags/kp.png
+1	5	0	0	0	27604896	0	0	27604893	0	0	67126	/admin/products/admin/1/edit?lang=tr
+1	6	0	0	0	27605307	0	0	27604800	0	0	339750	/category/ocuklar-ve-aile-krfev
+1	1	0	0	0	27605162	0	0	27605162	0	0	443	/public/assets/img/flags/np.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	571	/public/assets/img/flags/my.png
+1	2	0	0	0	27605272	0	0	27605269	0	0	17474	/admin/categories/edit/8?lang=tr
+1	0	0	1	0	0	27604839	0	0	27604839	0	0	/admin/customers/login/eyJpdiI6ImFZVWwxZG84QldYK3QyRFlOdE9FdkE9PSIsInZhbHVlIjoiTjBrNjVhZFRIa1VkZmNOOXdmalo1Zz09IiwibWFjIjoiNWIyYzYzYzkwNDU4YTlkNWQ1ZTQ2ZTM5Y2VkYjExOWE0NTQxYzljMDEyZjc1YTMxMzBmMTM2Mjc1NzIxODQ0YSIsInRhZyI6IiJ9
+1	1	0	0	0	27605162	0	0	27605162	0	0	473	/public/assets/img/flags/py.png
+1	3	0	0	0	27605291	0	0	27604836	0	0	21166	/admin/file_system
+1	2	0	0	0	27605273	0	0	27605269	0	0	17465	/admin/categories/edit/11?lang=tr
+1	1	0	0	0	27605162	0	0	27605162	0	0	422	/public/assets/img/flags/sy.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	531	/public/assets/img/flags/ug.png
+1	6	0	0	0	27605288	0	0	27604805	0	0	51180	/public/assets/img/cards/proxypay.png
+1	3	0	0	0	27605251	0	0	27605249	0	0	24133	/admin/languages/5?search=Subscribe
+1	1	0	0	0	27604838	0	0	27604838	0	0	1111	/public/assets/img/wallet-icon.png
+1	3	0	0	0	27605307	0	0	27604800	0	0	0	/public/assets/fonts/la-regular-400.eot?
+1	59	0	0	0	27605317	0	0	27604800	0	0	4574592	/public/uploads/all/SFMzYhNYc7lWUvfE71baPeqQLVkQiiGVMxsqUHW7.jpg
+1	1	0	0	0	27605162	0	0	27605162	0	0	403	/public/assets/img/flags/at.png
+1	2	0	0	0	27604893	0	0	27604893	0	0	26937	/admin/products/admin/2/edit?lang=tr
+1	3	0	0	0	27605307	0	0	27604800	0	0	0	/public/assets/css/font/summernote.eot
+1	0	0	0	4	0	0	27604800	0	0	27604800	0	/v2/_catalog
+1	2	0	0	0	27604855	0	0	27604855	0	0	12446	/admin/languages/5?search=By+signing+up+you+agree+to+our
+1	1	0	0	0	27605162	0	0	27605162	0	0	493	/public/assets/img/flags/gt.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	527	/public/assets/img/flags/hk.png
+1	2	0	0	0	27604812	0	0	27604812	0	0	12346	/admin/languages/5?search=Top+Brands
+1	1	0	0	0	27604825	0	0	27604825	0	0	64	/.well-known/acme-challenge/O9CHX4QTPMWM3M8H6ERYBDLQGH6TFRNG
+1	1	0	0	0	27605162	0	0	27605162	0	0	517	/public/assets/img/flags/lb.png
+1	0	0	0	5	0	0	27604871	0	0	27604827	0	/cron/.env
+1	1	0	0	0	27604817	0	0	27604817	0	0	132730	/_debugbar/assets/stylesheets?v=1681667190&theme=auto
+1	1	0	0	0	27605162	0	0	27605162	0	0	420	/public/assets/img/flags/mt.png
+1	1	0	0	0	27604800	0	0	27604800	0	0	22432	/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff
+1	56	0	0	0	27605317	0	0	27604800	0	0	4712624	/public/uploads/all/Kx8xhBfSn2qpAdzG8sXR5sfGCCiJwiTLXMETTxcB.jpg
+1	2	0	0	0	27604856	0	0	27604856	0	0	12296	/admin/languages/5?search=+All+categories
+1	4	0	0	0	27604893	0	0	27604824	0	0	53770	/admin/products/admin/3/edit?lang=tr
+1	1	0	0	0	27605162	0	0	27605162	0	0	554	/public/assets/img/flags/pt.png
+1	5	0	0	0	27605245	0	0	27604805	0	0	27120	/public/assets/img/cards/nagad.png
+1	0	0	4	0	0	27605153	0	0	27604805	0	0	/purchase_code
+1	61	0	0	0	27605317	0	0	27604800	0	0	4975943	/public/uploads/all/IOYddh4fp9nJGVZ6FJ5oRgG2q3cfsz9dqKecU2rk.jpg
+1	1	0	0	0	27605162	0	0	27605162	0	0	584	/public/assets/img/flags/st.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	638	/public/assets/img/flags/tk.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	497	/public/assets/img/flags/bf.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	428	/public/assets/img/flags/ao.png
+1	0	0	1	0	0	27605159	0	0	27605159	0	0	/admin/sellers/destroy/1
+1	25	0	0	0	27605294	0	0	27604803	0	0	193984	/admin/website/pages
+1	1	0	0	0	27605162	0	0	27605162	0	0	593	/public/assets/img/flags/yt.png
+1	4	0	0	0	27604939	0	0	27604837	0	0	23908	/admin/support_ticket
+1	20	0	0	0	27605316	0	0	27604800	0	0	953511	/compare
+1	1	0	0	0	27605162	0	0	27605162	0	0	608	/public/assets/img/flags/cx.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	508	/public/assets/img/flags/do.png
+1	1	0	0	0	27605157	0	0	27605157	0	0	3004	/_debugbar/open?op=get&id=Xb68b6371b6d63c6bed60af0712dd7af5
+1	2	0	0	0	27604853	0	0	27604852	0	0	12193	/admin/languages/5?search=CONTACTS
+1	5	0	0	0	27605276	0	0	27604812	0	0	45025	/admin/languages/5
+1	3	0	0	0	27604893	0	0	27604893	0	0	40120	/admin/products/admin/4/edit?lang=tr
+1	74	0	0	0	27605355	0	0	27604800	0	0	153510	/public/assets/img/avatar-place.png
+1	0	0	2	2	0	27604800	27604800	0	27604800	27604800	0	/login.action
+1	1	0	0	0	27605162	0	0	27605162	0	0	473	/public/assets/img/flags/jo.png
+1	5	0	0	0	27605267	0	0	27605255	0	0	43127	/admin/categories/edit/3?lang=tr
+1	1	0	0	0	27605162	0	0	27605162	0	0	588	/public/assets/img/flags/mo.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	602	/public/assets/img/flags/nf.png
+1	31	0	12	0	27605290	27605263	0	27604813	27605259	0	279463	/admin/categories
+1	58	0	0	0	27605317	0	0	27604800	0	0	7514650	/public/uploads/all/G8chswKV83Jby80wyYPBQOgY5amYUqITfM69gxpQ.jpg
+1	3	0	0	0	27605307	0	0	27604800	0	0	0	/public/assets/img/flags.png
+1	21	0	0	0	27605292	0	0	27604803	0	0	195404	/admin/general-setting
+1	3	0	0	0	27605321	0	0	27605321	0	0	261	/.well-known/acme-challenge/iS5MyXODHYIW5YQzfYtVyi85BesqlOQrF8SEMfhCJ4A
+1	2	2	0	2	27604800	0	27604800	27604800	0	27604800	0	/s/4373e2631323e2632313e2538313/_/
+1	570	570	159	18	27605478	28054834	27605144	27604800	27604800	27604920	23940281	/
+1	118	0	0	0	27605319	0	0	27604817	0	0	141201	/aiz-uploader
+1	1	0	0	0	27605162	0	0	27605162	0	0	527	/public/assets/img/flags/tf.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	527	/public/assets/img/flags/so.png
+1	2	0	0	0	27605121	0	0	27605121	0	0	4386	http://dergidunyasi.com.tr:80/public/assets/img/avatar-place.png
+1	0	0	0	5	0	0	27604871	0	0	27604827	0	/apps/.env
+1	3	0	0	0	27605307	0	0	27604800	0	0	0	/public/assets/fonts/la-solid-900.eot?
+1	1	0	0	0	27605162	0	0	27605162	0	0	554	/public/assets/img/flags/wf.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	593	/public/assets/img/flags/ba.png
+1	0	0	0	5	0	0	27604871	0	0	27604827	0	/config/.env
+1	2	0	3	6	27604840	27604847	27604847	27604840	27604840	27604840	24975	/index_sso.php
+1	2	0	0	0	27605247	0	0	27605163	0	0	14663	/admin/languages/app-translations/show/5
+1	1	0	0	0	27605162	0	0	27605162	0	0	572	/public/assets/img/flags/dj.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	439	/public/assets/img/flags/cs.png
+1	0	0	8	0	0	27605259	0	0	27604807	0	0	/register
+1	0	0	1	0	0	27604853	0	0	27604853	0	0	http://dergidunyasi.com.tr:80/?66.249.93.63
+1	21	0	0	0	27605260	0	0	27604808	0	0	16272	/public/assets/img/nothing.svg
+1	206	0	0	0	27604900	0	0	27604817	0	0	0	/admin/products/sku_combination
+1	68	0	0	0	27605317	0	0	27604800	0	0	4647069	/public/uploads/all/4cj4fdszmrMc69hItKhE26VLtfdGgRe6KymPPRH7.jpg
+1	1	0	0	0	27605162	0	0	27605162	0	0	532	/public/assets/img/flags/is.png
+1	5	0	0	0	27605245	0	0	27604805	0	0	181180	/public/assets/img/cards/payku.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	647	/public/assets/img/flags/na.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	628	/public/assets/img/flags/ls.png
+1	190	0	0	0	27605320	0	0	27604800	0	0	4090100	/public/uploads/all/1R8iO3ZMW0KlS6KQfE1Eu1OesnwIZy9B9PVgbOcr.webp
+1	6	0	0	0	27605229	0	0	27605201	0	0	50124	/admin/website/custom-pages/edit/seller-policy?lang=tr
+1	27	0	9	0	27605320	27605306	0	27604801	27604801	0	985786	/categories
+1	1	0	0	0	27605162	0	0	27605162	0	0	450	/public/assets/img/flags/qa.png
+1	2	0	0	0	27605277	0	0	27605276	0	0	15616	/admin/languages/5?search=+Featured+Categories
+1	1	0	0	0	27605162	0	0	27605162	0	0	423	/public/assets/img/flags/rs.png
+1	1	0	0	0	27605162	0	0	27605162	0	0	512	/public/assets/img/flags/sj.png
+1	0	0	0	5	0	0	27604871	0	0	27604827	0	/cronlab/.env
+1	1	0	0	0	27604800	0	0	27604800	0	0	22660	/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff
+1	1	0	0	0	27605162	0	0	27605162	0	0	408	/public/assets/img/flags/ae.png
+1	10	0	0	0	27605318	0	0	27604800	0	0	449646	/brand/dergi
+3	74	0	5	0	27605265	27605265	0	27605252	27605253	0	765179	http://dergidunyasi.com.tr/admin/categories/edit/1?lang=tr
+3	5	0	1	0	27604806	27604806	0	27604805	27604806	0	101817	https://dergidunyasi.com.tr/admin/tax/edit/3
+3	15	0	1	0	27605159	27605159	0	27605158	27605159	0	76255	http://dergidunyasi.com.tr/admin/customers
+3	187	0	16	2	27605294	27605244	27605215	27605184	27605186	27605215	564733	http://dergidunyasi.com.tr/admin/website/footer?lang=tr
+3	1	0	0	0	27604840	0	0	27604840	0	0	12489	http://cpanel.dergidunyasi.com.tr/pma/index.php
+3	23	0	1	0	27604893	27604893	0	27604893	27604893	0	16475	https://dergidunyasi.com.tr/admin/products/admin/2/edit?lang=tr
+3	6	0	0	0	27604918	0	0	27604918	0	0	21039	https://dergidunyasi.com.tr/return-policy
+3	21	0	0	0	27604838	0	0	27604803	0	0	21389	https://dergidunyasi.com.tr/admin/website/footer?lang=tr
+3	133	10	8	1	27605355	27605259	27604855	27604807	27604807	27604855	1258205	https://dergidunyasi.com.tr/users/registration
+3	6	0	0	0	27604896	0	0	27604896	0	0	78	https://dergidunyasi.com.tr/product/nereye-tripolis-yamac-kent
+3	5	5	4	1	27605269	27605269	27604970	27604803	27604803	27604970	549478	https://twitter.com/
+3	9	0	1	0	27604812	27604812	0	27604812	27604812	0	6206	https://dergidunyasi.com.tr/admin/languages/5?search=Top+Brands
+3	10	0	0	0	27604844	0	0	27604807	0	0	110345	https://dergidunyasi.com.tr/admin/blog
+3	29	0	2	0	27605255	27605255	0	27605254	27605255	0	340567	http://dergidunyasi.com.tr/admin/attributes
+3	17	0	0	0	27604807	0	0	27604807	0	0	99381	https://dergidunyasi.com.tr/admin/profile/9
+3	56	0	0	0	27604800	0	0	27604800	0	0	6292395	https://mail.dergidunyasi.com.tr/
+3	10	0	0	0	27605320	0	0	27604800	0	0	17470	http://dergidunyasi.com.tr/admin/blog
+3	50	0	2	0	27604893	27604893	0	27604824	27604824	0	47225	https://dergidunyasi.com.tr/admin/products/admin/3/edit?lang=tr
+3	5	0	0	0	27605251	0	0	27605251	0	0	0	http://dergidunyasi.com.tr/support-policy
+3	12	0	0	0	27604903	0	0	27604837	0	0	48658	https://dergidunyasi.com.tr/digital-purchase-history
+3	10	0	1	0	27604843	27604842	0	27604842	27604842	0	12557	https://dergidunyasi.com.tr/admin/support_ticket/eyJpdiI6ImwxQlJPekQxOXUyekJ4V29WZzd4OUE9PSIsInZhbHVlIjoiTkQzSXp2b3dFK3hlaUh6MnlUZzdBUT09IiwibWFjIjoiZmYzY2JjNTBhZTEyYWMyY2UzMzYwNmE0YzVkNGI4YjZkZjI3OTY5OWM3NDgyODhmMDA4NTEzZTAyZDljZTMxNCIsInRhZyI6IiJ9/show
+3	15	0	0	0	27604938	0	0	27604805	0	0	91662	https://dergidunyasi.com.tr/admin/smtp-settings
+3	10	0	1	0	27604856	27604856	0	27604856	27604856	0	12318	https://dergidunyasi.com.tr/admin/languages/5?search="Password+must+contain+at+least+6+digits
+3	14	0	0	0	27605276	0	0	27605163	0	0	16763	http://dergidunyasi.com.tr/admin/languages/5
+3	26	0	1	0	27604897	27604894	0	27604812	27604894	0	76436	https://dergidunyasi.com.tr/admin/products/all
+3	12	0	1	0	27605320	27605320	0	27605319	27605320	0	86802	http://dergidunyasi.com.tr/admin/blog/create
+3	5	0	0	0	27605242	0	0	27605242	0	0	0	http://dergidunyasi.com.tr/nakliyepolitikasi
+3	25	0	0	0	27604838	0	0	27604803	0	0	34362	https://dergidunyasi.com.tr/admin/website/pages
+3	10	0	0	0	27604897	0	0	27604887	0	0	0	https://dergidunyasi.com.tr/category/saglik-ve-yasam
+3	10	0	0	0	27604806	0	0	27604805	0	0	14458	https://dergidunyasi.com.tr/admin/pick_up_points
+3	5	0	0	0	27604894	0	0	27604894	0	0	12947	https://dergidunyasi.com.tr/admin/digitalproducts/create
+3	6	0	0	0	27604816	0	0	27604816	0	0	12955	https://dergidunyasi.com.tr/admin/product-bulk-upload/index
+3	4	0	0	0	27605156	0	0	27605156	0	0	0	https://dergidunyasi.com.tr/system_settings
+3	22	0	0	0	27604903	0	0	27604837	0	0	100763	https://dergidunyasi.com.tr/wishlists
+3	11	0	0	0	27604918	0	0	27604887	0	0	20892	https://dergidunyasi.com.tr/support-policy
+3	35	0	1	0	27604894	27604893	0	27604893	27604893	0	24103	https://dergidunyasi.com.tr/admin/products/admin/4/edit?lang=tr
+3	36	0	1	0	27604845	27604842	0	27604840	27604842	0	127312	https://dergidunyasi.com.tr/support_ticket
+3	5	0	0	0	27605251	0	0	27605251	0	0	0	http://dergidunyasi.com.tr/privacy-policy
+3	27	0	1	0	27605275	27605275	0	27605269	27605275	0	321389	http://dergidunyasi.com.tr/admin/categories/edit/14?lang=tr
+3	0	0	0	1	0	0	27604801	0	0	27604801	0	http://ghost-rider/
+3	25	0	1	0	27605272	27605272	0	27605269	27605272	0	451152	http://dergidunyasi.com.tr/admin/categories/edit/10?lang=tr
+3	7	1	0	0	27604901	0	0	27604901	0	0	24472	https://dergidunyasi.com.tr/product/vestoj
+3	5	0	0	0	27604906	0	0	27604906	0	0	0	https://dergidunyasi.com.tr/alicipolitikasi
+3	26	0	1	0	27605272	27605272	0	27605269	27605272	0	298575	http://dergidunyasi.com.tr/admin/categories/edit/8?lang=tr
+3	0	0	0	2	0	0	27604828	0	0	27604823	0	http://dergidunyasi.com.tr/ads.txt
+3	10	0	1	0	27604857	27604856	0	27604856	27604856	0	12247	https://dergidunyasi.com.tr/admin/languages/5?search=+All+categories
+3	1	0	0	0	27604840	0	0	27604840	0	0	12490	http://cpanel.dergidunyasi.com.tr/phpmyadmin/index.php
+3	25	0	1	0	27605268	27605268	0	27605268	27605268	0	330698	http://dergidunyasi.com.tr/admin/categories/edit/4?lang=tr
+3	1271	55	37	99	27605321	27605063	27605321	27604800	27604801	27604800	44958274	http://dergidunyasi.com.tr/
+3	38	1	0	0	27604902	0	0	27604809	0	0	79154	https://dergidunyasi.com.tr/flash-deals
+3	15	0	0	0	27604807	0	0	27604804	0	0	210397	https://dergidunyasi.com.tr/admin/payment-method
+3	59	0	0	0	27605056	0	0	27605055	0	0	4888861	https://www.dergidunyasi.com.tr/
+3	10	0	1	0	27604844	27604843	0	27604843	27604843	0	12571	https://dergidunyasi.com.tr/admin/support_ticket/eyJpdiI6IjdBbWo2RS9mUE9GNStKakloTk80MFE9PSIsInZhbHVlIjoiWEtBVmdVL2RVUUpsSDFpc3Q0VnNmZz09IiwibWFjIjoiYTE1MjNlNGI2ZGVhZmNhYWQyM2ZkMmQxY2U2Y2MyNjBmMmU2ZWUxNGM4NzEyZTEwYTFjMTVkNzU4ZDRkZWZjZSIsInRhZyI6IiJ9/show
+3	268	2	10	0	27605056	27604938	0	27604800	27604809	0	3138378	https://dergidunyasi.com.tr/users/login
+3	3	3	0	0	27605478	0	0	27604809	0	0	409832	http://185.126.216.74/
+3	10	0	0	0	27605292	0	0	27605292	0	0	17458	http://dergidunyasi.com.tr/admin/smtp-settings
+3	15	0	0	0	27604940	0	0	27604808	0	0	25552	https://dergidunyasi.com.tr/admin/staffs
+3	6	1	1	0	27605321	27604800	0	27605321	27604800	0	27155	http://dergidunyasi.com.tr/category/saglik-ve-yasam
+3	12	1	0	0	27604918	0	0	27604887	0	0	47662	https://dergidunyasi.com.tr/privacy-policy
+3	5	0	0	0	27604816	0	0	27604816	0	0	6235	https://dergidunyasi.com.tr/admin/brands
+3	130	1	0	0	27604941	0	0	27604803	0	0	280426	https://dergidunyasi.com.tr/admin
+3	10	0	0	0	27604939	0	0	27604807	0	0	40319	https://dergidunyasi.com.tr/admin/blog-category
+3	116	1	0	1	27605294	0	27605229	27605192	0	27605229	344458	http://dergidunyasi.com.tr/admin/website/pages
+3	65	0	0	0	27604901	0	0	27604812	0	0	343722	https://dergidunyasi.com.tr/admin/products/admin
+3	10	0	0	0	27604940	0	0	27604808	0	0	12445	https://dergidunyasi.com.tr/admin/system/server-status
+3	6	1	0	0	27605264	0	0	27605264	0	0	25600	http://dergidunyasi.com.tr/category/ev-ve-bahe-vpjpr
+3	6	0	0	0	27604893	0	0	27604893	0	0	81	https://dergidunyasi.com.tr/product/nereye-turkiyede-arkeoloji
+3	12	0	0	0	27604836	0	0	27604809	0	0	9010	https://dergidunyasi.com.tr//login
+3	5	0	0	0	27605251	0	0	27605251	0	0	0	http://dergidunyasi.com.tr/terms
+3	8	0	0	0	27605247	0	0	27605163	0	0	0	http://dergidunyasi.com.tr/admin/languages/app-translations/show/5
+3	5	0	1	0	27605319	27605319	0	27605319	27605319	0	81294	http://dergidunyasi.com.tr/admin/blog-category/create
+3	1	0	0	0	27604840	0	0	27604840	0	0	12281	https://cpanel.dergidunyasi.com.tr/sitemap.xml
+3	6	0	1	0	27604845	27604845	0	27604845	27604845	0	20703	https://dergidunyasi.com.tr/support_ticket/eyJpdiI6InhHMFdXL0ZkY3ZHSDhkVjdWY1U5d3c9PSIsInZhbHVlIjoiUHJzMzI3TENVaTVsNFMyL3REN3NNUT09IiwibWFjIjoiZWMyODMwNDU0NjNhNGZlYTRkY2M3MDIxZjA2NzUyYTNlOWFjN2JiNGE2NjBkZWE0ZjY3YTc2OTNkNDQ3MDdhZCIsInRhZyI6IiJ9
+3	5	0	0	0	27605251	0	0	27605251	0	0	0	http://dergidunyasi.com.tr/return-policy
+3	68	0	3	0	27604841	27604841	0	27604838	27604838	0	254652	https://dergidunyasi.com.tr/profile
+3	6	0	0	0	27604902	0	0	27604809	0	0	0	https://dergidunyasi.com.tr/public/assets/css/aiz-core.css
+3	6	1	0	0	27604943	0	0	27604943	0	0	22276	https://dergidunyasi.com.tr/category/teknoloji-ve-bilim-olbwy
+3	16	0	0	0	27604819	0	0	27604813	0	0	19883	https://dergidunyasi.com.tr/admin/categories
+3	20	0	0	0	27604806	0	0	27604805	0	0	215574	https://dergidunyasi.com.tr/admin/tax
+3	13	0	0	0	27604893	0	0	27604830	0	0	20963	https://dergidunyasi.com.tr/product/gezi-a-dan-z-ye-yaz-tatili
+3	3	0	0	0	27604800	0	0	27604800	0	0	68000	https://cpanel.dergidunyasi.com.tr/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/open_sans.min.css
+3	33	2	0	0	27605307	0	0	27604800	0	0	590036	https://dergidunyasi.com.tr/category/ev-ve-bahe-vpjpr
+3	5	0	0	0	27604816	0	0	27604816	0	0	12954	https://dergidunyasi.com.tr/admin/colors
+3	57	0	2	0	27605292	27605225	0	27605195	27605196	0	61880	http://dergidunyasi.com.tr/admin/currency
+3	3829	52	76	24	27605307	27605307	27605153	27604800	27604800	27604801	231754289	https://dergidunyasi.com.tr/
+3	5	0	0	0	27605292	0	0	27605292	0	0	8405	http://dergidunyasi.com.tr/admin/pick_up_points
+3	1	0	0	0	27605055	0	0	27605055	0	0	96752	https://www.dergidunyasi.com.tr/public/assets/css/vendors.css
+3	19	0	1	0	27605290	27605290	0	27605289	27605290	0	362187	http://dergidunyasi.com.tr/admin/brands/edit/2?lang=tr
+3	476	0	9	0	27604901	27604900	0	27604812	27604820	0	2120986	https://dergidunyasi.com.tr/admin/products/create
+3	15	0	0	0	27604852	0	0	27604805	0	0	23288	https://dergidunyasi.com.tr/admin/languages
+3	14	0	0	0	27604893	0	0	27604834	0	0	31554	https://dergidunyasi.com.tr/product/traveller-world
+3	15	0	0	0	27605319	0	0	27605284	0	0	128224	http://dergidunyasi.com.tr/admin/blog-category
+3	6	0	1	0	27604845	27604845	0	27604845	27604845	0	20701	https://dergidunyasi.com.tr/cart
+3	23	2	0	0	27604859	0	0	27604805	0	0	164397	https://dergidunyasi.com.tr/category/moda-ve-g%C3%BCzellik
+3	5	0	0	0	27605255	0	0	27605255	0	0	9187	http://dergidunyasi.com.tr/reviews
+3	5	0	0	0	27604906	0	0	27604906	0	0	0	https://dergidunyasi.com.tr/brand/dergi
+3	6	0	0	0	27604834	0	0	27604834	0	0	27400	https://dergidunyasi.com.tr/category/otomobil-ve-motorlu-tatlar-dapyp?min_price=15.00&max_price=34.64&keyword=&brand=&sort_by=
+3	5	0	0	0	27604939	0	0	27604939	0	0	6155	https://dergidunyasi.com.tr/admin/commission-log
+3	6	1	0	0	27604906	0	0	27604906	0	0	22187	https://dergidunyasi.com.tr/nakliyebilgisi
+3	6	1	0	0	27605056	0	0	27605056	0	0	22212	https://www.dergidunyasi.com.tr/users/registration
+3	30	0	1	0	27605274	27605274	0	27605269	27605274	0	398340	http://dergidunyasi.com.tr/admin/categories/edit/13?lang=tr
+3	6	0	0	0	27604834	0	0	27604834	0	0	30906	https://dergidunyasi.com.tr/search
+3	15	0	0	0	27604893	0	0	27604892	0	0	160	https://dergidunyasi.com.tr/product/nereye-rosetta-tasi
+3	4	0	0	0	27605164	0	0	27605164	0	0	0	http://dergidunyasi.com.tr/admin/languages/5/edit
+3	0	0	0	1	0	0	27604823	0	0	27604823	0	http://dergidunyasi.com.tr/robots.txt
+3	20	0	0	0	27604940	0	0	27604805	0	0	124328	https://dergidunyasi.com.tr/admin/currency
+3	9	0	1	0	27604857	27604857	0	27604857	27604857	0	6152	https://dergidunyasi.com.tr/admin/languages/5?search=Compare+Products
+3	24	0	1	0	27605271	27605271	0	27605269	27605271	0	33804	http://dergidunyasi.com.tr/admin/categories/edit/7?lang=tr
+3	23	0	1	0	27605292	27605227	0	27605227	27605227	0	26201	http://dergidunyasi.com.tr/admin/payment-method
+3	52	0	2	0	27605267	27605267	0	27605255	27605256	0	606149	http://dergidunyasi.com.tr/admin/categories/edit/3?lang=tr
+3	24	0	2	11	27604827	27604827	27604892	27604806	27604806	27604806	0	http://dergidunyasi.com.tr/step4
+3	10	0	0	0	27605291	0	0	27605290	0	0	17998	http://dergidunyasi.com.tr/admin/products/create
+3	18	0	6	2	27604827	27604827	27604814	27604805	27604806	27604814	67578	http://dergidunyasi.com.tr/step3
+3	15	0	3	0	27604817	27604817	0	27604804	27604805	0	26293	http://dergidunyasi.com.tr/step2
+3	15	0	0	0	27604817	0	0	27604804	0	0	28604	http://dergidunyasi.com.tr/step1
+3	5	0	1	0	27605212	27605212	0	27605211	27605212	0	8050	http://dergidunyasi.com.tr/admin/website/custom-pages/edit/privacy-policy?lang=tr
+3	57	0	0	1	27604839	0	27604841	27604803	0	27604841	155452	https://dergidunyasi.com.tr/admin/general-setting
+3	19	0	3	0	27605228	27605228	0	27605157	27605157	0	760083	http://dergidunyasi.com.tr/login
+3	84	0	0	0	27604940	0	0	27604805	0	0	1662135	https://dergidunyasi.com.tr/admin/activation
+3	6	0	0	0	27604940	0	0	27604940	0	0	8684	https://dergidunyasi.com.tr/admin/addons
+3	1	0	0	0	27604800	0	0	27604800	0	0	96752	https://mail.dergidunyasi.com.tr/public/assets/css/vendors.css
+3	5	0	0	0	27605290	0	0	27605290	0	0	8999	http://dergidunyasi.com.tr/admin/products/admin
+3	1	0	0	0	27604840	0	0	27604840	0	0	12489	http://cpanel.dergidunyasi.com.tr/index_sso.php
+3	10	0	1	0	27604856	27604855	0	27604855	27604855	0	12351	https://dergidunyasi.com.tr/admin/languages/5?search=By+signing+up+you+agree+to+our
+3	21	0	2	0	27605249	27605249	0	27605247	27605248	0	143119	http://dergidunyasi.com.tr/admin/languages/5?search=email
+3	5	0	0	0	27605057	0	0	27605057	0	0	32955	https://dergidunyasi.com.tr/public/assets/img/placeholder-rect.jpg
+3	15	0	1	0	27605160	27605159	0	27605159	27605159	0	41908	http://dergidunyasi.com.tr/admin/sellers
+3	250	0	1	0	27605162	27605162	0	27605162	27605162	0	139288	http://dergidunyasi.com.tr/admin/languages/create
+3	5	0	0	0	27604837	0	0	27604837	0	0	6551	https://dergidunyasi.com.tr/admin/flash_deals
+3	126	0	4	0	27605292	27605181	0	27605160	27605166	0	486835	http://dergidunyasi.com.tr/admin/general-setting
+3	153	0	0	0	27605321	0	0	27604800	0	0	853628	http://dergidunyasi.com.tr/public/assets/css/vendors.css
+3	5	0	0	0	27604894	0	0	27604894	0	0	6801	https://dergidunyasi.com.tr/admin/digitalproducts
+3	1	0	0	0	27604840	0	0	27604840	0	0	12496	http://cpanel.dergidunyasi.com.tr/PhpMyAdmin/index.php
+3	4	0	0	0	27605207	0	0	27605207	0	0	0	http://dergidunyasi.com.tr/admin/website/custom-pages/edit/alicipolitikasi?lang=tr
+3	237	0	9	0	27605319	27605315	0	27605201	27605295	0	2783011	http://dergidunyasi.com.tr/admin/website/custom-pages/edit/home?lang=tr&page=home
+3	6	1	0	0	27604835	0	0	27604834	0	0	29086	https://dergidunyasi.com.tr/checkout
+3	57	0	0	0	27604939	0	0	27604807	0	0	4365345	https://dergidunyasi.com.tr/admin/uploaded-files
+3	4	0	0	0	27605254	0	0	27605254	0	0	0	http://dergidunyasi.com.tr/admin/attributes/edit/2?lang=tr
+3	38	0	6	0	27605242	27605242	0	27605204	27605205	0	585468	http://dergidunyasi.com.tr/admin/website/custom-pages/create
+3	16	0	0	0	27605224	0	0	27605219	0	0	23632	http://dergidunyasi.com.tr/flash-deals
+3	0	0	0	1	0	0	27604840	0	0	27604840	0	http://mail.dergidunyasi.com.tr/index_sso.php
+3	5	0	0	0	27604939	0	0	27604939	0	0	5895	https://dergidunyasi.com.tr/admin/wallet-history
+3	5	0	0	0	27604802	0	0	27604802	0	0	0	https://dergidunyasi.com.tr/search?keyword=
+3	5	0	0	0	27604837	0	0	27604837	0	0	9114	https://dergidunyasi.com.tr/admin/verification/form
+3	42	2	0	0	27604802	0	0	27604800	0	0	4771235	http://mail.dergidunyasi.com.tr/
+3	15	0	2	0	27605264	27605251	0	27605249	27605250	0	98995	http://dergidunyasi.com.tr/admin/languages/5?search=Subscribe
+3	9	0	1	0	27605209	27605209	0	27605208	27605209	0	8049	http://dergidunyasi.com.tr/admin/website/custom-pages/edit/support-policy?lang=tr
+3	49	1	4	0	27605307	27605307	0	27604800	27604800	0	376856	https://dergidunyasi.com.tr/compare
+3	5	0	0	0	27605290	0	0	27605290	0	0	8930	http://dergidunyasi.com.tr/admin/digitalproducts
+3	10	7	26	191	27605355	27604938	27604871	27604804	27604827	27604827	181939	https://www.google.com/
+3	60	0	2	0	27605292	27605164	0	27605160	27605163	0	209921	http://dergidunyasi.com.tr/admin/languages
+3	26	0	0	0	27604902	0	0	27604835	0	0	27833	https://dergidunyasi.com.tr/brands
+3	51	0	6	2	27604848	27604848	27604807	27604807	27604808	27604807	33920	https://dergidunyasi.com.tr/admin/profile
+3	7	2	0	0	27605320	0	0	27605318	0	0	54275	http://dergidunyasi.com.tr/blog
+3	5	0	0	0	27604816	0	0	27604816	0	0	6103	https://dergidunyasi.com.tr/admin/attributes
+3	10	0	0	0	27604939	0	0	27604836	0	0	13163	https://dergidunyasi.com.tr/admin/file_system
+3	25	0	0	0	27604940	0	0	27604803	0	0	29340	https://dergidunyasi.com.tr/admin/website/header
+3	24	0	0	0	27605229	0	0	27605201	0	0	73419	http://dergidunyasi.com.tr/admin/website/custom-pages/edit/seller-policy?lang=tr
+3	176	0	0	0	27605290	0	0	27605252	0	0	1921084	http://dergidunyasi.com.tr/admin/categories
+3	25	0	1	0	27605270	27605270	0	27605269	27605270	0	229732	http://dergidunyasi.com.tr/admin/categories/edit/6?lang=tr
+3	7	0	0	0	27605057	0	0	27604827	0	0	51989	https://dergidunyasi.com.tr/public/uploads/all/kSdTeeKoXL5eD20ALjc1Gwuk2JEKUAvbISorqBGP.png
+3	0	0	0	1	0	0	27604823	0	0	27604823	0	http://dergidunyasi.com.tr/humans.txt
+3	20	0	0	0	27604939	0	0	27604837	0	0	25269	https://dergidunyasi.com.tr/admin/conversations
+3	11	0	0	0	27605292	0	0	27605227	0	0	30934	http://dergidunyasi.com.tr/admin/order-configuration
+3	42	1	4	0	27604848	27604845	0	27604810	27604810	0	118310	https://dergidunyasi.com.tr/admin/customers
+3	83	0	5	0	27605282	27605266	0	27605253	27605254	0	810677	http://dergidunyasi.com.tr/admin/categories/edit/2?lang=tr
+3	5	0	0	0	27605158	0	0	27605158	0	0	25354	http://dergidunyasi.com.tr/admin/staffs
+3	27	0	0	0	27604961	0	0	27604836	0	0	46464	https://dergidunyasi.com.tr/terms
+3	6	0	0	0	27604834	0	0	27604833	0	0	26255	https://dergidunyasi.com.tr/category/otomobil-ve-motorlu-tatlar-dapyp
+3	10	0	1	0	27604855	27604854	0	27604854	27604854	0	12346	https://dergidunyasi.com.tr/admin/languages/5?search=Welcome+Back+!
+3	5	0	0	0	27605057	0	0	27605057	0	0	20025	https://dergidunyasi.com.tr/public/uploads/all/b4jNnq8Ust98un6YZ4kssWrOalXYSAZg50NMxBH9.png
+3	431	0	0	0	27605355	0	0	27604800	0	0	4556004	https://dergidunyasi.com.tr/public/assets/css/vendors.css
+3	15	0	1	0	27605289	27605289	0	27605255	27605289	0	24778	http://dergidunyasi.com.tr/admin/brands
+3	3	0	0	0	27605224	0	0	27605219	0	0	0	http://dergidunyasi.com.tr/public/assets/css/aiz-core.css
+3	180	1	0	0	27605307	0	0	27604800	0	0	1870645	https://dergidunyasi.com.tr/categories
+3	5	0	0	0	27605291	0	0	27605291	0	0	8217	http://dergidunyasi.com.tr/admin/system/update
+3	19	0	0	0	27604841	0	0	27604838	0	0	78763	https://dergidunyasi.com.tr/wallet
+3	3	0	0	0	27604800	0	0	27604800	0	0	36340	https://cpanel.dergidunyasi.com.tr/
+3	10	0	0	0	27604806	0	0	27604804	0	0	111063	https://dergidunyasi.com.tr/admin/order-configuration
+3	20	0	0	0	27604939	0	0	27604837	0	0	25501	https://dergidunyasi.com.tr/admin/support_ticket
+3	17	3	0	0	27605320	0	0	27605224	0	0	477372	http://dergidunyasi.com.tr/categories
+3	5	0	1	0	27605210	27605210	0	27605209	27605210	0	8049	http://dergidunyasi.com.tr/admin/website/custom-pages/edit/terms?lang=tr
+3	126	7	4	0	27605260	27604836	0	27604808	27604808	0	539774	https://dergidunyasi.com.tr/dashboard
+3	76	0	12	0	27605263	27605263	0	27605256	27605259	0	1478597	http://dergidunyasi.com.tr/admin/categories/create
+3	12	2	0	0	27605318	0	0	27605317	0	0	54281	http://dergidunyasi.com.tr/brand/dergi
+3	1	0	0	0	27604800	0	0	27604800	0	0	96752	http://mail.dergidunyasi.com.tr/public/assets/css/vendors.css
+3	11	0	0	0	27604896	0	0	27604825	0	0	4700	https://dergidunyasi.com.tr/category/yemek-ve-mutfak
+3	5	0	1	0	27605207	27605207	0	27605205	27605207	0	8052	http://dergidunyasi.com.tr/admin/website/custom-pages/edit/return-policy?lang=tr
+3	49	0	2	0	27604821	27604821	0	27604819	27604820	0	319447	https://dergidunyasi.com.tr/admin/categories/edit/12?lang=tr
+3	6	0	0	0	27605318	0	0	27605318	0	0	26196	http://dergidunyasi.com.tr/brands
+3	7	2	0	0	27605320	0	0	27605317	0	0	127723	http://dergidunyasi.com.tr/category/moda-ve-g%C3%BCzellik
+3	5	0	0	0	27605255	0	0	27605255	0	0	7896	http://dergidunyasi.com.tr/admin/colors
+3	2	2	1	0	27605004	27605003	0	27605003	27605003	0	54340	http://baidu.com/
+3	43	0	0	0	27605291	0	0	27605157	0	0	80811	http://dergidunyasi.com.tr/admin
+3	10	0	1	0	27605254	27605254	0	27605254	27605254	0	15493	http://dergidunyasi.com.tr/admin/attributes/edit/1?lang=tr
+3	18	0	0	0	27604903	0	0	27604836	0	0	76394	https://dergidunyasi.com.tr/purchase_history
+3	11	0	0	0	27605198	0	0	27605198	0	0	9906	http://dergidunyasi.com.tr/admin/currency?page=3
+3	15	0	0	0	27605198	0	0	27605197	0	0	9887	http://dergidunyasi.com.tr/admin/currency?page=2
+3	36	0	0	0	27604941	0	0	27604803	0	0	46386	https://dergidunyasi.com.tr/admin/website/appearance
+3	7	0	1	0	27605199	27605199	0	27605198	27605199	0	10440	http://dergidunyasi.com.tr/admin/currency?page=1
+3	2	2	0	0	27604914	0	0	27604814	0	0	44375	https://bionluk.com/
+3	0	0	0	1	0	0	27604847	0	0	27604847	0	http://dergidunyasi.com.tr/index_sso.php
+3	71	0	1	0	27605292	27604801	0	27604800	27604801	0	1209878	http://dergidunyasi.com.tr/admin/activation
+3	6	0	0	0	27605056	0	0	27605056	0	0	20789	https://www.dergidunyasi.com.tr/category/ev-ve-bahe-vpjpr
+3	14	0	0	0	27604845	0	0	27604843	0	0	49386	https://dergidunyasi.com.tr/conversations
+3	12	0	0	0	27604918	0	0	27604858	0	0	110116	https://dergidunyasi.com.tr/password/reset
+3	4	0	0	0	27604800	0	0	27604800	0	0	2696	https://cpanel.dergidunyasi.com.tr/cPanel_magic_revision_1677708914/unprotected/cpanel/style_v2_optimized.css
+3	0	0	0	1	0	0	27604840	0	0	27604840	0	http://www.dergidunyasi.com.tr/index_sso.php
+3	6	0	1	0	27604858	27604858	0	27604858	27604858	0	115779	https://dergidunyasi.com.tr/track-your-order
+3	5	0	0	0	27605292	0	0	27605291	0	0	7393	http://dergidunyasi.com.tr/admin/file_system
+3	5	0	0	0	27605156	0	0	27605155	0	0	15238	https://dergidunyasi.com.tr/step5
+3	5	0	0	0	27604940	0	0	27604940	0	0	6720	https://dergidunyasi.com.tr/admin/social-login
+3	5	0	1	0	27605155	27605155	0	27605155	27605155	0	14143	https://dergidunyasi.com.tr/step4
+3	5	0	1	0	27605155	27605155	0	27605153	27605155	0	14498	https://dergidunyasi.com.tr/step3
+3	5	0	1	0	27605153	27605153	0	27605153	27605153	0	13811	https://dergidunyasi.com.tr/step2
+3	71	0	3	0	27604896	27604896	0	27604893	27604893	0	66697	https://dergidunyasi.com.tr/admin/products/admin/1/edit?lang=tr
+3	5	0	0	0	27604816	0	0	27604816	0	0	7235	https://dergidunyasi.com.tr/reviews
+3	5	0	0	0	27604897	0	0	27604897	0	0	0	https://dergidunyasi.com.tr/category/tarih-ve-arkeoloji-2goim
+3	5	0	0	0	27605153	0	0	27605153	0	0	14371	https://dergidunyasi.com.tr/step1
+3	10	0	1	0	27604854	27604853	0	27604852	27604853	0	12206	https://dergidunyasi.com.tr/admin/languages/5?search=CONTACTS
+3	10	0	0	0	27604852	0	0	27604812	0	0	12201	https://dergidunyasi.com.tr/admin/languages/5
+3	6	0	0	0	27605290	0	0	27605290	0	0	14376	http://dergidunyasi.com.tr/admin/product-bulk-upload/index
+3	86	0	11	0	27604938	27604842	0	27604802	27604803	0	906310	https://dergidunyasi.com.tr/login
+3	20	0	0	0	27605291	0	0	27605284	0	0	49694	http://dergidunyasi.com.tr/admin/products/all
+3	39	9	1	0	27605316	27605276	0	27605269	27605276	0	595441	http://dergidunyasi.com.tr/admin/categories/edit/15?lang=tr
+3	156	0	9	29	27605294	27605285	27605221	27605162	27605181	27605214	501026	http://dergidunyasi.com.tr/admin/website/header
+3	5	0	0	0	27604945	0	0	27604945	0	0	0	https://dergidunyasi.com.tr/nakliyepolitikasi
+3	27	0	1	0	27605273	27605273	0	27605269	27605273	0	300206	http://dergidunyasi.com.tr/admin/categories/edit/11?lang=tr
+3	25	0	1	0	27605265	27605264	0	27605264	27605264	0	248192	http://dergidunyasi.com.tr/admin/categories/edit/9?lang=tr
+3	28	1	0	0	27605307	0	0	27604800	0	0	356681	https://dergidunyasi.com.tr/blog
+3	1	0	0	0	27604840	0	0	27604840	0	0	12495	http://cpanel.dergidunyasi.com.tr/php/thinkphp/aaaffff123.php
+3	4	4	0	0	27604984	0	0	27604802	0	0	81524	http://www.dergidunyasi.com.tr/
+3	26	0	1	0	27605269	27605269	0	27605268	27605269	0	187677	http://dergidunyasi.com.tr/admin/categories/edit/5?lang=tr
+3	47	0	1	0	27605289	27605183	0	27605182	27605183	0	178633	http://dergidunyasi.com.tr/admin/website/appearance
+3	10	0	1	0	27605288	27605277	0	27605276	27605277	0	17921	http://dergidunyasi.com.tr/admin/languages/5?search=+Featured+Categories
+4	43	1	0	0	27605053	0	0	27605053	0	0	4977538	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36
+4	2	2	2	0	27604800	27604800	0	27604800	27604800	0	44866	Mozilla/5.0 (Linux; Android 6.0; HTC One M9 Build/MRA101300) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.3112.98 Mobile Safari/537.3
+4	50	1	0	0	27605253	0	0	27605252	0	0	4351878	Mozilla/5.0 (Linux; U; Android 11; tr-tr; Redmi Note 8 Build/RKQ1.201004.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.127 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.27.0-gn
+4	9	9	0	0	27605219	0	0	27604803	0	0	221214	Apache-HttpClient/5.1.4 (Java/11.0.18)
+4	0	0	0	1	0	0	27605017	0	0	27605017	0	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:21.0) Gecko/20130331 Firefox/21.0
+4	156	6	2	0	27604839	27604837	0	27604817	27604817	0	15980257	Mozilla/5.0 (iPhone; CPU iPhone OS 16_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Mobile/15E148 Safari/604.1
+4	43	1	1	0	27604808	27604807	0	27604807	27604807	0	4977564	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.71 Safari/537.36
+4	2	2	1	0	27604833	27604833	0	27604833	27604833	0	54346	Mozilla/5.0 (Linux; Android 11; vivo 1906; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.4280.141 Mobile Safari/537.36 VivoBrowser/8.9.0.0
+4	1	1	0	0	27604840	0	0	27604840	0	0	12282	Mozilla/5.0 (Macintosh; Intel Mac OS X 8_2) AppleWebKit/548.45 (KHTML, like Gecko) Chrome/77.0.1696 Safari/537.36
+4	3514	76	101	156	27605321	27605259	27605321	27604800	27604800	27604800	64963031	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+4	0	0	0	1	0	0	27604924	0	0	27604924	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/538.35 (KHTML, like Gecko) Chrome/80.0.1466 Safari/537.36
+4	54	6	3	0	27604832	27604832	0	27604817	27604817	0	5408902	Mozilla/5.0 (Android 13; Mobile; rv:109.0) Gecko/111.0 Firefox/111.0
+4	1	1	0	0	27605016	0	0	27605016	0	0	12486	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2225.0 Safari/537.36
+4	27	1	23	0	27604801	27604801	0	27604801	27604801	0	969189	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36
+4	18	11	14	4	27605219	27605009	27604811	27604803	27604803	27604811	249252	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+4	1	0	0	0	27604840	0	0	27604840	0	0	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 9_0_2) AppleWebKit/576.50 (KHTML, like Gecko) Chrome/56.0.2075 Safari/537.36
+4	63	4	2	0	27605004	27605003	0	27604824	27604824	0	5663163	Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Mobile Safari/537.36
+4	2	2	2	0	27605050	27605050	0	27604802	27604802	0	54350	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.65 Safari/537.31
+4	2	2	2	0	27604896	27604896	0	27604894	27604894	0	27175	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36
+4	614	22	0	0	27605066	0	0	27604800	0	0	41839388	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+4	0	0	0	1	0	0	27604840	0	0	27604840	0	Mozilla/5.0 (Windows NT 7_0_1; Win64; x64) AppleWebKit/594.46 (KHTML, like Gecko) Chrome/83.0.1997 Safari/537.36
+4	1	0	0	0	27604840	0	0	27604840	0	0	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 9_0_2) AppleWebKit/540.40 (KHTML, like Gecko) Chrome/85.0.2700 Safari/537.36
+4	2	2	4	2	27604908	27604908	27604908	27604877	27604877	27604877	54361	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; BW/1.1; bit.ly/3eZNDnO; a00e15ef8d) Chrome/84.0.4147.105 Safari/537.36
+4	1	1	1	0	27604841	27604841	0	27604841	27604841	0	27165	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15
+4	10	6	5	2	27604880	27604879	27604879	27604802	27604801	27604877	813490	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+4	1	0	0	0	27604840	0	0	27604840	0	0	0	Mozilla/5.0 (Windows NT 9_0; Win64; x64) AppleWebKit/534.46 (KHTML, like Gecko) Chrome/80.0.483 Safari/537.36
+4	5	5	4	1	27605269	27605269	27604970	27604803	27604803	27604970	549478	Mozilla/5.0 (Linux; Android 12) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36
+4	5	1	0	0	27604823	0	0	27604823	0	0	588399	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5615.87 Safari/537.36
+4	46	1	0	0	27604879	0	0	27604878	0	0	4999171	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15
+4	3	3	0	0	27604838	0	0	27604800	0	0	81445	Mozilla/5.0 (Linux; U; Android 2.2; ja-jp; SC-02B Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+4	32	2	0	0	27605254	0	0	27605254	0	0	745293	Mozilla/5.0 (Linux; Android 12; M2007J20CG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+4	11	11	7	0	27605359	27605205	0	27604803	27604826	0	1265863	Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com
+4	0	0	0	1	0	0	27604847	0	0	27604847	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/544.52 (KHTML, like Gecko) Chrome/103.0.1307 Safari/537.36
+4	164	7	4	0	27605355	27604938	0	27604804	27604805	0	16980127	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+4	3	1	0	0	27604801	0	0	27604801	0	0	87023	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4590.2 Safari/537.36 Chrome-Lighthouse
+4	1	1	1	0	27604997	27604997	0	27604997	27604997	0	0	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1
+4	3	0	1	3	27604836	27604813	27604836	27604813	27604813	27604813	0	fasthttp
+4	1	0	0	0	27604924	0	0	27604924	0	0	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/595.43 (KHTML, like Gecko) Chrome/53.0.1709 Safari/537.36
+4	8	5	2	0	27605027	27605027	0	27604805	27604805	0	435756	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/111.0
+4	1	0	0	0	27604840	0	0	27604840	0	0	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/578.52 (KHTML, like Gecko) Chrome/91.0.2955 Safari/537.36
+4	1	1	2	1	27604828	27604828	27604828	27604828	27604828	27604828	27180	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0
+4	12	6	4	0	27605065	27605063	0	27604805	27604805	0	431351	Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-N900T Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+4	26	3	1	0	27604809	27604800	0	27604800	27604800	0	3168953	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+4	10	4	2	0	27605065	27605063	0	27605063	27605063	0	431359	Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36
+4	1	1	0	0	27604801	0	0	27604801	0	0	131757	Mozilla/5.0 (X11; Linux i686; rv:10.0) Gecko/20100101 Firefox/10.0
+4	13	3	3	1	27605321	27605308	27605308	27605305	27604947	27605308	1061703	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+4	0	0	1	0	0	28054640	0	0	28054640	0	0	Mozilla/5.0 (Linux; U; Android 12; tr-tr; Redmi Note 11 Build/SKQ1.211103.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.127 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.27.0-gn
+4	12	6	2	0	27605215	27604984	0	27604802	27604802	0	185143	Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)
+4	1	0	0	0	27604840	0	0	27604840	0	0	14760	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/572.52 (KHTML, like Gecko) Chrome/85.0.403 Safari/537.36
+4	12	0	0	0	27605321	0	0	27604860	0	0	1044	Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+4	6	3	2	0	27605031	27605027	0	27605027	27604824	0	347101	Mozilla/5.0 (iPhone; CPU iPhone OS 16_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Mobile/15E148 Safari/604.1
+4	1	0	0	0	27604840	0	0	27604840	0	0	463781	Mozilla/5.0 (Windows NT 7_0; Win64; x64) AppleWebKit/590.41 (KHTML, like Gecko) Chrome/55.0.1369 Safari/537.36
+4	1	1	4	3	27604823	27604823	27604823	27604823	27604823	27604823	27176	Mozilla/5.0 (Linux; Android 9; BDL8051C Build/BDL3552T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.158 Safari/537.36
+4	10	10	0	0	27605321	0	0	27604800	0	0	271505	Go-http-client/2.0
+4	1	0	0	0	27604840	0	0	27604840	0	0	463781	Mozilla/5.0 (Macintosh; Intel Mac OS X 8_2_2) AppleWebKit/593.37 (KHTML, like Gecko) Chrome/66.0.1912 Safari/537.36
+4	0	0	2	0	0	28054834	0	0	28054834	0	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36
+4	1	0	0	0	27604840	0	0	27604840	0	0	4005	Mozilla/5.0 (Macintosh; Intel Mac OS X 8_0) AppleWebKit/597.37 (KHTML, like Gecko) Chrome/107.0.2164 Safari/537.36
+4	1	0	0	0	27604847	0	0	27604847	0	0	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/549.36 (KHTML, like Gecko) Chrome/105.0.1597 Safari/537.36
+4	1	0	0	0	27604847	0	0	27604847	0	0	463781	Mozilla/5.0 (Windows NT 8_1_1; Win64; x64) AppleWebKit/592.55 (KHTML, like Gecko) Chrome/106.0.459 Safari/537.36
+4	13	0	0	0	27604845	0	0	27604845	0	0	716990	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+4	1	1	1	0	27604801	27604801	0	27604801	27604801	0	4900	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+4	1	1	0	0	27604828	0	0	27604828	0	0	132753	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299
+4	0	0	1	0	0	27604983	0	0	27604983	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+4	1	0	0	0	27604847	0	0	27604847	0	0	4005	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/579.48 (KHTML, like Gecko) Chrome/59.0.1626 Safari/537.36
+4	7	7	3	0	27605087	27604898	0	27604818	27604833	0	925961	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0
+4	0	0	0	1	0	0	27604840	0	0	27604840	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 8_1_1) AppleWebKit/584.49 (KHTML, like Gecko) Chrome/60.0.2819 Safari/537.36
+4	2	2	1	0	27604836	27604813	0	27604813	27604813	0	54368	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+4	46	1	0	0	27604867	0	0	27604867	0	0	5386220	Mozilla/5.0 (Linux; U; Android 12; tr-tr; Redmi Note 9 Pro Build/SKQ1.211019.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.127 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.27.0-gn
+4	0	0	0	1	0	0	27604924	0	0	27604924	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 9_1_1) AppleWebKit/558.37 (KHTML, like Gecko) Chrome/87.0.1560 Safari/537.36
+4	2	2	0	0	27604943	0	0	27604820	0	0	269425	Mozilla/5.0 (compatible; Discordbot/2.0; +https://discordapp.com)
+4	2	2	2	0	27604852	27604852	0	27604820	27604820	0	265126	Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+4	1	0	0	0	27604840	0	0	27604840	0	0	12289	Mozilla/5.0 (Windows NT 8_2; Win64; x64) AppleWebKit/570.49 (KHTML, like Gecko) Chrome/102.0.2289 Safari/537.36
+4	1	0	0	0	27604847	0	0	27604847	0	0	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/585.49 (KHTML, like Gecko) Chrome/100.0.226 Safari/537.36
+4	1	1	1	0	27604919	27604919	0	27604919	27604919	0	27174	UCWEB/2.0 (Java; U; MIDP-2.0; Nokia203/20.37) U2/1.0.0 UCMini/11.4.1.1138 (SpeedMode; Proxy; Android 4.4.2; SM-J727T1 ) U2/1.0.0 Mobile
+4	6	1	1	0	27605073	27605073	0	27605073	27605073	0	609823	Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; InfoPath.3; rv:11.0) like Gecko
+4	1	1	1	1	27604815	27604939	27604939	27604815	27604939	27604939	5776	python-requests/2.25.1
+4	0	0	0	1	0	0	27604840	0	0	27604840	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.54 (KHTML, like Gecko) Chrome/58.0.160 Safari/537.36
+4	6	3	1	0	27604837	27604837	0	27604829	27604837	0	117990	WhatsApp/2.23.8.76 A
+4	9	2	0	0	27605057	0	0	27604816	0	0	299617	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+4	33	5	1	0	27605121	27605063	0	27604804	27605063	0	1956717	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+4	5	1	0	1	27604801	0	27604801	27604801	0	27604801	510482	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/109.0
+4	0	0	0	1	0	0	27604847	0	0	27604847	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/598.38 (KHTML, like Gecko) Chrome/52.0.967 Safari/537.36
+4	5	1	1	0	27605057	27605027	0	27605027	27605027	0	259158	Mozilla/5.0 (iPhone; CPU iPhone OS 16_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Mobile/15E148 Safari/604.1
+4	1	0	0	0	27604840	0	0	27604840	0	0	4005	Mozilla/5.0 (Macintosh; Intel Mac OS X 9_0) AppleWebKit/597.50 (KHTML, like Gecko) Chrome/100.0.2055 Safari/537.36
+4	0	0	2	2	0	27605181	27605178	0	27604867	27604866	0	python-requests/2.28.2
+4	0	0	0	2	0	0	27605085	0	0	27605085	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:82.0) Gecko/20100101 Firefox/82.0
+4	1	0	0	0	27604840	0	0	27604840	0	0	2632	Mozilla/5.0 (Windows NT 8_2_1; Win64; x64) AppleWebKit/551.55 (KHTML, like Gecko) Chrome/67.0.1431 Safari/537.36
+4	1	0	0	0	27604847	0	0	27604847	0	0	14760	Mozilla/5.0 (Macintosh; Intel Mac OS X 8_1_1) AppleWebKit/536.53 (KHTML, like Gecko) Chrome/89.0.1295 Safari/537.36
+4	1	1	1	1	27604801	27604866	27604866	27604801	27604866	27604866	5777	Mozilla/5.0 (X11; Linux x86_64; rv:83.0) Gecko/20100101 Firefox/83.0
+4	56	2	1	0	27604873	27604872	0	27604800	27604872	0	5105571	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.177 Safari/537.36
+4	10	0	3	30	27604840	27604847	27604847	27604840	27604840	27604840	124898	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+4	0	0	1	0	0	27604847	0	0	27604847	0	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/586.40 (KHTML, like Gecko) Chrome/62.0.840 Safari/537.36
+4	44	1	1	0	27605022	27605022	0	27605022	27605022	0	4982242	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5615.138 Safari/537.36
+4	0	0	0	1	0	0	27604840	0	0	27604840	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 8_2_1) AppleWebKit/593.38 (KHTML, like Gecko) Chrome/71.0.1245 Safari/537.36
+4	52	1	0	0	27604832	0	0	27604832	0	0	4981842	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+4	28	28	18	13	27605033	27605033	27605033	27604809	27604809	27604809	760991	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+4	6	6	0	9	27604974	0	27604974	27604900	0	27604900	162895	Mozilla/5.0 (Linux; Android 11; M2004J15SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Mobile Safari/537.36
+4	4	4	2	0	27605224	27604976	0	27604844	27604844	0	108689	Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+4	17	1	1	0	27605121	27605121	0	27604804	27605121	0	1092263	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+4	14	5	2	0	27604839	27604823	0	27604817	27604817	0	581145	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+4	126	2	3	0	27604961	27604944	0	27604944	27604944	0	5075259	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
+4	99	82	13	37	27605302	27604800	27604839	27604800	27604800	27604800	2126695	Go-http-client/1.1
+4	1	1	5	38	27604827	27604828	27604828	27604827	27604827	27604827	22173	Mozilla/5.0 (Windows; U; MSIE 8.0; Macintosh; .NET CLR 1.0.10253; Intel Mac OS X 11_8_4)
+4	109	9	1	0	27605057	27604805	0	27604805	27604805	0	10792037	Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/99.0.4844.47 Mobile/15E148 Safari/604.1
+4	1	1	5	40	27604871	27604871	27604871	27604871	27604871	27604871	22170	Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/19.0.239.23 Safari/537.25
+4	2	2	0	0	27604831	0	0	27604831	0	0	11559	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36
+4	1	0	1	0	27604840	27604840	0	27604840	27604840	0	12281	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/602.47 (KHTML, like Gecko) Chrome/100.0.2275 Safari/537.36
+4	1	1	1	0	27604801	27604801	0	27604801	27604801	0	27152	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1664.3 Safari/537.36
+4	0	0	0	1	0	0	27604847	0	0	27604847	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/554.41 (KHTML, like Gecko) Chrome/85.0.1430 Safari/537.36
+4	5	2	1	0	27604836	27604831	0	27604832	27604831	0	281565	Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+4	89	3	0	0	27604800	0	0	27604800	0	0	10324260	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/111.0.5563.64 Safari/537.36
+4	1	1	1	0	27604939	27604939	0	27604939	27604939	0	131763	Mozilla/5.0 Firefox/33.0
+4	0	0	1	0	0	27604832	0	0	27604832	0	0	Mozilla/5.0 (iPhone; CPU iPhone OS 16_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+4	1	1	0	0	27605017	0	0	27605017	0	0	12477	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.16 Safari/537.36
+4	1	0	0	0	27604840	0	0	27604840	0	0	26	Mozilla/5.0 (Windows NT 9_1; Win64; x64) AppleWebKit/541.40 (KHTML, like Gecko) Chrome/80.0.1953 Safari/537.36
+4	0	0	0	2	0	0	27605203	0	0	27604860	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+4	11	4	1	0	27605057	27604817	0	27604817	27604817	0	331466	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+4	1	1	0	0	27604918	0	0	27604918	0	0	27180	UCWEB/2.0 (Java; U; MIDP-2.0; Nokia203/20.37) U2/1.0.0 UCMini/11.1.3.1128 (SpeedMode; Proxy; Android 5.1.2; GT-S5360 ) U2/1.0.0 Mobile
+4	1	0	0	0	27604924	0	0	27604924	0	0	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 9_2_2) AppleWebKit/555.44 (KHTML, like Gecko) Chrome/92.0.1659 Safari/537.36
+4	1	1	1	0	27604880	27604880	0	27604880	27604880	0	27177	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+4	0	0	1	0	0	27604840	0	0	27604840	0	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 8_2) AppleWebKit/558.53 (KHTML, like Gecko) Chrome/69.0.1976 Safari/537.36
+4	1	0	0	0	27604840	0	0	27604840	0	0	12281	Mozilla/5.0 (Windows NT 8_2_2; Win64; x64) AppleWebKit/540.37 (KHTML, like Gecko) Chrome/65.0.183 Safari/537.36
+4	1	0	0	0	27604840	0	0	27604840	0	0	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/600.52 (KHTML, like Gecko) Chrome/69.0.2876 Safari/537.36
+4	2	2	0	0	27604846	0	0	27604801	0	0	54303	Mozilla/5.0 zgrab/0.x
+4	0	0	0	1	0	0	27604924	0	0	27604924	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/544.40 (KHTML, like Gecko) Chrome/78.0.2959 Safari/537.36
+4	0	0	1	0	0	27604840	0	0	27604840	0	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/560.42 (KHTML, like Gecko) Chrome/72.0.456 Safari/537.36
+4	5	2	1	0	27604837	27604832	0	27604832	27604832	0	281565	Mozilla/5.0
+4	17	1	0	0	27605121	0	0	27604803	0	0	954565	Mozilla/5.0 (Macintosh; Intel Mac OS X 13_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+4	2	2	0	0	27604828	0	0	27604828	0	0	154990	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:58.0) Gecko/20100101 Firefox/58.0
+4	5	1	0	1	27604801	0	27604801	27604801	0	27604801	510498	Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4590.2 Mobile Safari/537.36 Chrome-Lighthouse
+4	1	1	0	0	27604802	0	0	27604802	0	0	5786	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2224.3 Safari/537.36
+4	0	0	1	0	0	27604805	0	0	27604805	0	0	Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Mobile/15E148 Safari/604.1
+4	43	4	0	0	27605066	0	0	27604805	0	0	3694167	Mozilla/5.0 (feeder.co; Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+4	49	3	1	0	27604809	27604800	0	27604800	27604800	0	5272198	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+4	9	2	2	0	27605057	27605027	0	27604817	27604817	0	277173	Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Mobile/15E148 Safari/604.1
+4	1	0	0	0	27604840	0	0	27604840	0	0	14760	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/571.51 (KHTML, like Gecko) Chrome/101.0.1659 Safari/537.36
+4	22	2	0	0	27605121	0	0	27604804	0	0	1536359	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+4	55	3	1	1	27605155	27604855	27604820	27604820	27604855	27604820	4435328	Mozilla/5.0 (iPhone; CPU iPhone OS 15_7_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.4 Mobile/15E148 Safari/604.1
+4	0	0	0	1	0	0	27604924	0	0	27604924	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 8_1_2) AppleWebKit/562.44 (KHTML, like Gecko) Chrome/85.0.2854 Safari/537.36
+4	1	1	1	0	27604832	27604832	0	27604832	27604832	0	131771	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0
+4	17	1	1	2	27604824	27604824	27604824	27604824	27604824	27604824	2235868	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+4	4	4	2	0	27604822	27604822	0	27604800	27604820	0	419498	Mozilla/5.0 (iPhone; CPU iPhone OS 15_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1
+4	2	2	0	0	27604806	0	0	27604806	0	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+4	0	0	0	1	0	0	27604924	0	0	27604924	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 9_0_1) AppleWebKit/536.46 (KHTML, like Gecko) Chrome/60.0.1462 Safari/537.36
+4	1	1	5	38	27604849	27604850	27604850	27604849	27604849	27604849	22171	Mozilla/5.0 (Windows NT.6.2; WOW64) Gecko/20081507 Firefox/14.0
+4	1	1	0	0	27604840	0	0	27604840	0	0	27170	Mozilla/5.0 (Windows NT 7_1_1; Win64; x64) AppleWebKit/591.46 (KHTML, like Gecko) Chrome/74.0.2170 Safari/537.36
+4	5	1	1	0	27605053	27605052	0	27605052	27605052	0	163722	Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1
+4	1	1	1	0	27605042	27605042	0	27605042	27605042	0	27170	facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+4	451	11	10	1	27605046	28054663	27604804	27604802	27604805	27604804	16779674	Mozilla/5.0 (Linux; Android 12; 2201117TG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+4	2	2	2	2	27604842	27604841	27604920	27604835	27604834	27604920	262144	curl/7.29.0
+4	0	0	0	4	0	0	27604931	0	0	27604931	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:52.0) Gecko/20100101 Firefox/52.0
+4	1	1	0	1	27604801	0	27604801	27604801	0	27604801	5772	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36
+4	1	1	1	0	27604801	27604801	0	27604801	27604801	0	27153	Mozilla/5.0 (X11; OpenBSD i386) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+4	1	1	5	38	27604839	27604840	27604840	27604839	27604839	27604839	22174	Mozilla/5.0 (Linux x86_64; X11) Gecko/20090201 Firefox/10.0
+4	1	1	5	37	27604850	27604851	27604851	27604850	27604850	27604850	22172	Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; .NET CLR 3.5.10395; Win64; x64)
+4	4	2	0	0	27605252	0	0	27605252	0	0	59396	WhatsApp/2.2313.6 W
+4	0	0	0	1	0	0	27604840	0	0	27604840	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 9_0_1) AppleWebKit/556.52 (KHTML, like Gecko) Chrome/65.0.1996 Safari/537.36
+4	1	1	0	0	27604847	0	0	27604847	0	0	27171	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/601.54 (KHTML, like Gecko) Chrome/64.0.2576 Safari/537.36
+4	1	1	0	0	27604840	0	0	27604840	0	0	27179	Mozilla/5.0 (Macintosh; Intel Mac OS X 9_1_2) AppleWebKit/580.55 (KHTML, like Gecko) Chrome/66.0.586 Safari/537.36
+4	3	3	2	0	27604806	27604802	0	27604802	27604802	0	0	Mozilla/5.0 (compatible; Domains Project/1.3.7; +https://domainsproject.org)
+4	3134	44	94	6	27605320	27605320	27605229	27604800	27604800	27604855	39655832	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0
+4	11	0	0	0	27604944	0	0	27604816	0	0	27687	Mozilla/5.0 (Macintosh; Intel Mac OS X 11.6; rv:92.0) Gecko/20100101 Firefox/92.0
+4	2317	29	61	59	27604901	27604900	27604876	27604806	27604806	27604807	25419753	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+4	0	0	0	1	0	0	27604840	0	0	27604840	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.35 (KHTML, like Gecko) Chrome/96.0.2472 Safari/537.36
+4	4	4	0	8	27605310	0	27605310	27605205	0	27605082	505187	Mozilla/5.0 (X11; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0
+4	5	2	3	0	27605031	27605063	0	27605027	27604817	0	281565	Mozilla/5.0 (iPhone; CPU iPhone OS 16_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Mobile/15E148 Safari/604.1
+4	500	14	75	6	27605307	27605307	27605306	27604800	27604800	27604835	20600927	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246
+4	1	1	1	0	27604802	27604802	0	27604802	27604802	0	27178	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+4	0	0	0	1	0	0	27604924	0	0	27604924	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 9_0_2) AppleWebKit/600.54 (KHTML, like Gecko) Chrome/64.0.1359 Safari/537.36
+4	16	0	0	0	27604854	0	0	27604825	0	0	1024	Cpanel-HTTP-Client/1.0
+4	0	0	1	0	0	27604868	0	0	27604868	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+5	2	0	0	1	27604801	0	27604801	27604801	0	27604801	423464	66.249.93.60
+5	1	0	0	0	27604804	0	0	27604804	0	0	11578	170.231.251.95
+5	1	1	0	0	27604800	0	0	27604800	0	0	0	139.144.150.23
+5	0	0	2	3	0	27605181	27605203	0	27604867	27604866	0	162.19.223.174
+5	1	0	0	0	27604913	0	0	27604913	0	0	4005	87.236.176.39
+5	5	1	0	1	27604820	0	27604820	27604820	0	27604820	588399	176.89.95.103
+5	1	0	0	0	27604804	0	0	27604804	0	0	203240	191.102.157.148
+5	1	1	0	0	27605017	0	0	27605017	0	0	12477	34.145.108.136
+5	2	0	0	0	27605321	0	0	27605321	0	0	174	18.236.155.246
+5	1	1	0	0	27605013	0	0	27605013	0	0	5781	193.34.72.203
+5	1	0	0	0	27604822	0	0	27604822	0	0	7427	170.247.222.61
+5	0	0	1	0	0	27604815	0	0	27604815	0	0	191.102.170.163
+5	1	1	0	0	27604900	0	0	27604900	0	0	27174	191.102.157.138
+5	123	6	1	0	27605066	27605063	0	27604800	27605063	0	8876830	3.70.134.219
+5	3	2	0	0	27604801	0	0	27604801	0	0	23939	66.249.93.33
+5	1	1	0	0	27604913	0	0	27604913	0	0	27154	87.236.176.22
+5	0	0	1	0	0	27604947	0	0	27604947	0	0	167.114.185.54
+5	0	0	1	0	0	27604894	0	0	27604894	0	0	36.99.136.141
+5	1	1	1	0	27604894	27604896	0	27604894	27604896	0	27175	36.99.136.139
+5	1	1	0	0	27604896	0	0	27604896	0	0	0	36.99.136.140
+5	1	0	0	0	27604883	0	0	27604883	0	0	157652	170.231.251.65
+5	1	1	1	0	27604898	27604898	0	27604898	27604898	0	132761	51.255.62.14
+5	1	1	1	0	27605033	27605033	0	27605033	27605033	0	27175	18.237.88.163
+5	1	0	0	0	27605121	0	0	27605121	0	0	2193	170.231.251.62
+5	45	1	1	0	27604854	27604854	0	27604854	27604854	0	4986242	54.210.237.255
+5	52	1	0	0	27604832	0	0	27604832	0	0	4981842	176.88.45.67
+5	1	0	0	0	27605121	0	0	27605121	0	0	11578	209.127.110.173
+5	1	1	0	0	27604809	0	0	27604809	0	0	27175	35.167.83.224
+5	1	0	0	0	27604803	0	0	27604803	0	0	4005	191.102.157.121
+5	1	0	0	0	27604860	0	0	27604860	0	0	87	23.178.112.203
+5	1	1	1	0	27604812	27604812	0	27604812	27604812	0	27177	52.42.119.51
+5	3	0	0	0	27605321	0	0	27605321	0	0	261	23.178.112.202
+5	1	0	2	7	27604847	27604847	27604847	27604847	27604847	27604847	0	106.75.100.243
+5	0	0	0	1	0	0	27604900	0	0	27604900	0	47.251.15.21
+5	169	7	27	2	27604836	27604836	27604835	27604800	27604800	27604835	7218365	51.195.90.229
+5	16	0	0	0	27604854	0	0	27604825	0	0	1024	185.126.216.74
+5	1	1	1	0	27604820	27604820	0	27604820	27604820	0	132563	52.16.216.136
+5	8	2	0	0	27604800	0	0	27604800	0	0	1003799	205.169.39.123
+5	1	1	0	0	27604821	0	0	27604821	0	0	27160	189.76.193.63
+5	1	1	1	0	27604822	27604822	0	27604822	27604822	0	27180	54.202.59.43
+5	555	8	19	0	27604867	27604845	0	27604830	27604831	0	12635911	95.10.205.29
+5	1	1	0	0	27604800	0	0	27604800	0	0	0	165.22.108.223
+5	8	2	0	0	27604809	0	0	27604809	0	0	1003802	205.169.39.111
+5	1	0	0	0	27604854	0	0	27604854	0	0	224667	170.231.251.214
+5	1	0	0	0	27604883	0	0	27604883	0	0	309788	38.154.186.98
+5	1	1	1	0	27604931	27604931	0	27604931	27604931	0	27183	52.37.58.191
+5	1	0	0	0	27604804	0	0	27604804	0	0	63614	45.139.38.8
+5	1	1	0	0	27604811	0	0	27604811	0	0	5785	209.127.111.98
+5	1	1	0	0	27604811	0	0	27604811	0	0	5778	193.34.72.144
+5	1	1	1	0	27604894	27604893	0	27604894	27604893	0	27173	35.91.212.105
+5	0	0	0	2	0	0	27604860	0	0	27604839	0	196.119.40.149
+5	0	0	1	0	0	27604900	0	0	27604900	0	0	95.164.157.33
+5	162	6	0	0	27605039	0	0	27604809	0	0	10101803	159.203.53.95
+5	4	1	0	0	27604826	0	0	27604824	0	0	149794	64.145.93.28
+5	20	1	1	1	27604805	27604805	27604804	27604804	27604805	27604804	605733	78.190.56.14
+5	1	1	1	0	27604842	27604841	0	27604842	27604841	0	131072	223.111.175.19
+5	0	0	0	1	0	0	27605085	0	0	27605085	0	208.115.225.114
+5	19	3	1	12	27604840	27604840	27604840	27604840	27604840	27604840	1109101	106.75.80.230
+5	1	1	0	0	27604860	0	0	27604860	0	0	27181	52.32.175.123
+5	1	0	0	0	27604883	0	0	27604883	0	0	63614	38.154.186.209
+5	1	0	1	0	27605053	27605052	0	27605053	27605052	0	46442	171.13.14.75
+5	0	0	0	2	0	0	27604920	0	0	27604920	0	223.111.175.16
+5	5	2	1	0	27605065	27605063	0	27605063	27605063	0	149794	216.151.180.3
+5	1	1	0	0	27604854	0	0	27604854	0	0	27176	170.247.223.161
+5	43	1	1	0	27604808	27604807	0	27604807	27604807	0	4977564	65.155.30.101
+5	1	1	0	0	27604900	0	0	27604900	0	0	27153	47.88.5.56
+5	18	1	0	0	27605004	0	0	27605004	0	0	1754614	27.115.124.70
+5	1	0	0	0	27605121	0	0	27605121	0	0	6591	138.122.193.79
+5	0	0	0	1	0	0	27604974	0	0	27604974	0	47.254.85.182
+5	2	0	0	0	27604854	0	0	27604854	0	0	8784	95.164.157.17
+5	126	2	3	0	27604961	27604944	0	27604944	27604944	0	5075259	176.234.224.193
+5	2	0	0	0	27605121	0	0	27605121	0	0	71041	170.231.251.172
+5	2	1	0	0	27604804	0	0	27604804	0	0	29370	38.154.186.183
+5	1	0	0	0	27604854	0	0	27604854	0	0	157652	193.34.72.109
+5	25	25	0	0	27605231	0	0	27604800	0	0	679501	40.113.118.83
+5	1	1	0	0	27604846	0	0	27604846	0	0	27152	171.67.70.233
+5	1	1	2	1	27604877	27604877	27604877	27604877	27604877	27604877	27186	35.213.239.153
+5	1	1	5	38	27604827	27604828	27604828	27604827	27604827	27604827	22173	18.182.22.120
+5	1	1	0	0	27604801	0	0	27604801	0	0	27151	171.67.70.229
+5	1	1	0	0	27604802	0	0	27604802	0	0	27178	199.244.88.219
+5	1	1	0	0	27604842	0	0	27604842	0	0	27177	95.164.157.245
+5	0	0	1	0	0	27604802	0	0	27604802	0	0	199.244.88.218
+5	1	1	0	0	27605087	0	0	27605087	0	0	132563	51.254.49.110
+5	1	1	2	1	27604939	27604939	27604939	27604939	27604939	27604939	131763	8.36.86.59
+5	1	1	1	0	27604852	27604852	0	27604852	27604852	0	132563	52.31.47.75
+5	1	0	0	0	27604854	0	0	27604854	0	0	203240	193.34.73.199
+5	1	1	0	0	27604818	0	0	27604818	0	0	131771	51.254.49.101
+5	0	0	1	0	0	27604853	0	0	27604853	0	0	209.127.252.36
+5	2	2	0	0	27604976	0	0	27604975	0	0	54293	15.204.182.106
+5	0	0	1	0	0	27604833	0	0	27604833	0	0	51.255.62.8
+5	4	1	0	0	27605052	0	0	27605052	0	0	117280	171.13.14.26
+5	1	0	0	0	27604804	0	0	27604804	0	0	81763	38.154.186.150
+5	40	1	0	0	27605003	0	0	27605003	0	0	3626984	27.115.124.118
+5	1	1	1	0	27604833	27604898	0	27604833	27604898	0	131771	51.255.62.6
+5	5	2	1	0	27604839	27604832	0	27604832	27604832	0	281565	45.133.173.4
+5	50	1	0	0	27605253	0	0	27605252	0	0	4351878	78.190.191.20
+5	1	1	1	0	27604835	27604834	0	27604835	27604834	0	131072	117.187.173.99
+5	1	1	0	0	27604805	0	0	27604805	0	0	22430	146.70.116.246
+5	1	1	0	0	27605121	0	0	27605121	0	0	27178	192.241.67.211
+5	1	1	0	0	27604898	0	0	27604898	0	0	132563	51.255.62.1
+5	43	1	0	0	27605053	0	0	27605053	0	0	4977538	171.13.14.18
+5	3	1	2	2	27604813	27604813	27604813	27604813	27604813	27604813	27180	8.217.105.27
+5	1	1	0	0	27604931	0	0	27604931	0	0	27174	34.216.119.33
+5	153	8	1	0	27605044	27604831	0	27604822	27604831	0	10359335	161.35.246.138
+5	1	1	0	0	27605009	0	0	27605009	0	0	27166	191.102.170.2
+5	5	2	2	0	27604837	27604832	0	27604832	27604832	0	281565	197.242.159.250
+5	1	0	0	0	27605121	0	0	27605121	0	0	63614	38.154.198.159
+5	11	0	4	17	27604924	27604840	27604924	27604840	27604840	27604840	87029	106.75.2.214
+5	0	0	1	0	0	27605003	0	0	27605003	0	0	27.115.124.101
+5	4	4	2	0	27604822	27604822	0	27604800	27604820	0	419498	51.81.167.146
+5	2	0	0	0	27604822	0	0	27604822	0	0	165079	95.164.157.197
+5	4	4	4	1	27605269	27605269	27604970	27604803	27604803	27604970	527048	146.70.116.221
+5	2	2	0	0	27604806	0	0	27604806	0	0	0	85.111.48.36
+5	1	1	0	0	27604816	0	0	27604816	0	0	22436	52.47.99.242
+5	0	0	0	1	0	0	27605017	0	0	27605017	0	34.168.247.205
+5	1	1	5	40	27604871	27604871	27604871	27604871	27604871	27604871	22170	54.160.211.182
+5	2	0	0	0	27604854	0	0	27604854	0	0	75192	209.127.253.196
+5	1	0	0	3	27604924	0	27604924	27604924	0	27604924	0	106.75.16.16
+5	1	1	0	0	27604822	0	0	27604822	0	0	27174	190.123.209.5
+5	43	1	0	0	27604856	0	0	27604856	0	0	4977538	68.183.245.101
+5	1	0	0	0	27604883	0	0	27604883	0	0	63614	95.164.159.14
+5	1	0	0	0	27605215	0	0	27605215	0	0	4005	87.236.176.246
+5	0	0	1	0	0	27605121	0	0	27605121	0	0	209.127.111.138
+5	0	0	1	0	0	27605205	0	0	27605205	0	0	198.235.24.252
+5	1	1	1	0	27604801	27604801	0	27604801	27604801	0	4900	142.147.89.239
+5	1	1	1	0	27605042	27605042	0	27605042	27605042	0	27170	69.171.231.119
+5	1	1	1	0	27604802	27604802	0	27604802	27604802	0	27185	87.236.176.242
+5	1	1	0	0	27604915	0	0	27604915	0	0	132563	198.235.24.246
+5	1	0	0	0	27604853	0	0	27604853	0	0	4005	132.255.133.166
+5	1	0	0	0	27604802	0	0	27604802	0	0	4005	87.236.176.238
+5	1	0	0	0	27605121	0	0	27605121	0	0	2193	209.127.111.130
+5	2	0	0	0	27604883	0	0	27604883	0	0	285003	209.127.97.52
+5	1	1	0	0	27604819	0	0	27604819	0	0	131771	188.165.87.107
+5	0	0	0	1	0	0	27604861	0	0	27604861	0	54.185.119.179
+5	3	0	0	0	27604822	0	0	27604822	0	0	616218	38.154.198.109
+5	1	1	0	0	27604949	0	0	27604949	0	0	27179	35.91.250.160
+5	0	0	1	1	0	27604834	27604834	0	27604834	27604834	0	54.214.135.137
+5	12	1	1	0	27604938	27604938	0	27604805	27604938	0	1163226	212.154.30.36
+5	1	0	0	0	27604804	0	0	27604804	0	0	309788	209.127.253.163
+5	1	1	1	1	27604861	27604861	27604861	27604861	27604861	27604861	27190	35.92.100.146
+5	1	1	0	0	27604838	0	0	27604838	0	0	27157	133.242.174.119
+5	1	0	0	0	27604804	0	0	27604804	0	0	6591	138.122.193.129
+5	0	0	1	0	0	27605089	0	0	27605089	0	0	51.195.216.255
+5	1	0	0	0	27604854	0	0	27604854	0	0	81763	209.127.253.155
+5	1	1	1	0	27604812	27604812	0	27604812	27604812	0	27177	54.186.45.97
+5	426	8	6	0	27604945	27604945	0	27604814	27604824	0	6034282	176.234.225.180
+5	1	1	0	0	27604815	0	0	27604815	0	0	27150	191.102.174.52
+5	2	2	0	0	27604974	0	0	27604900	0	0	54285	47.88.94.161
+5	5	2	2	0	27605065	27605063	0	27605063	27605063	0	149794	191.96.168.67
+5	1	1	1	0	27604984	27604984	0	27604984	27604984	0	27170	87.236.176.213
+5	5	2	1	0	27604818	27604817	0	27604817	27604817	0	149786	191.101.31.19
+5	17	1	1	1	27604824	27604824	27604824	27604824	27604824	27604824	2235868	74.84.150.150
+5	1	0	0	0	27604824	0	0	27604824	0	0	4005	87.236.176.196
+5	1	0	0	0	27604867	0	0	27604867	0	0	4005	87.236.176.203
+5	1	0	0	0	27604822	0	0	27604822	0	0	63614	170.247.221.99
+5	1	1	0	0	27604866	0	0	27604866	0	0	27156	87.236.176.202
+5	1	1	2	1	27604828	27604828	27604828	27604828	27604828	27604828	27180	141.94.174.211
+5	4	0	0	0	27605057	0	0	27605056	0	0	127387	84.17.42.43
+5	1	1	0	0	27604826	0	0	27604826	0	0	131771	198.235.24.194
+5	1	1	0	0	27604811	0	0	27604811	0	0	27176	34.213.215.242
+5	50	4	1	0	27604830	27604817	0	27604817	27604817	0	5132037	212.102.57.17
+5	7	2	2	0	27605073	27605073	0	27604997	27604997	0	609823	58.251.94.154
+5	1	1	1	1	27604813	27604813	27604812	27604813	27604813	27604812	27184	34.219.243.159
+5	0	0	0	2	0	0	27604811	0	0	27604811	0	34.234.11.9
+5	1	1	1	0	27604809	27604809	0	27604809	27604809	0	27180	35.164.49.90
+5	1	0	0	0	27604854	0	0	27604854	0	0	7427	193.34.74.190
+5	1	0	0	0	27604860	0	0	27604860	0	0	87	34.208.129.164
+5	2	0	0	0	27604883	0	0	27604883	0	0	80354	209.127.97.167
+5	1	1	0	0	27604831	0	0	27604831	0	0	5787	217.114.218.26
+5	0	0	0	1	0	0	27605085	0	0	27605085	0	45.76.238.34
+5	5432	94	159	158	27605321	27605320	27605321	27604800	27604800	27604800	67589779	78.190.55.78
+5	5	1	0	0	27604823	0	0	27604823	0	0	588399	35.165.215.140
+5	2	0	0	0	27604822	0	0	27604821	0	0	15583	209.127.253.109
+5	1	0	0	0	27604984	0	0	27604984	0	0	4005	87.236.176.9
+5	123	6	1	0	27604847	27604832	0	27604832	27604832	0	8876821	82.135.80.15
+5	6	1	9	3	27604800	27604800	27604800	27604800	27604800	27604800	82	128.199.61.251
+5	1	1	1	0	27604860	27604860	0	27604860	27604860	0	27186	52.40.45.169
+5	1	1	1	0	27605027	27605027	0	27605027	27605027	0	131771	164.90.241.135
+5	1	1	1	0	27604802	27604802	0	27604802	27604802	0	0	68.183.130.239
+5	7	3	0	2	27604801	0	27604801	27604801	0	27604801	522031	34.254.53.125
+5	2	1	0	0	27604811	0	0	27604811	0	0	31188	52.40.162.41
+5	1	1	0	0	27605215	0	0	27605215	0	0	25264	87.236.176.153
+5	2	1	0	1	27604831	0	27604831	27604831	0	27604831	31184	34.212.140.86
+5	2	2	0	0	27604943	0	0	27604820	0	0	269425	35.227.62.178
+5	4	1	0	0	27605031	0	0	27605030	0	0	149794	197.242.159.110
+5	1	1	1	0	27604814	27604814	0	27604814	27604814	0	131771	198.235.24.149
+5	1	1	1	0	27604802	27604802	0	27604802	27604802	0	0	68.183.103.73
+5	1	1	0	0	27604830	0	0	27604830	0	0	27178	18.237.29.77
+5	0	0	1	0	0	27605009	0	0	27605009	0	0	193.34.74.146
+5	1	0	0	0	27604943	0	0	27604943	0	0	2517	34.23.118.111
+5	1	0	0	0	27604816	0	0	27604816	0	0	2517	34.138.184.79
+5	2	2	1	0	27604833	27604833	0	27604833	27604833	0	54346	45.249.245.84
+5	0	0	1	1	0	27604866	27604866	0	27604866	27604866	0	128.199.31.216
+5	11	1	0	0	27604800	0	0	27604800	0	0	119312	18.224.3.177
+5	1	1	0	0	27604836	0	0	27604836	0	0	131771	198.235.24.134
+5	0	0	0	1	0	0	27604900	0	0	27604900	0	47.89.193.239
+5	1	1	1	0	27604823	27604823	0	27604823	27604823	0	131771	216.131.116.88
+5	1	1	0	0	27605131	0	0	27605131	0	0	132563	198.235.24.128
+5	1	0	0	0	27604822	0	0	27604822	0	0	2193	170.247.221.30
+5	314	6	12	4	27604903	27604902	27604903	27604804	27604804	27604903	10578734	176.234.92.145
+5	2320	31	61	59	27604901	27604900	27604876	27604806	27604806	27604807	25480680	176.234.226.198
+5	46	1	0	0	27604879	0	0	27604878	0	0	4999171	34.78.129.35
+5	0	0	1	0	0	27604826	0	0	27604826	0	0	198.235.24.5
+5	1	1	1	0	27604841	27604841	0	27604841	27604841	0	27165	94.131.33.159
+5	3	3	0	15	27604800	0	27604800	27604800	0	27604800	50645	161.35.155.246
+5	1	0	0	0	27604822	0	0	27604822	0	0	2517	198.20.189.161
+5	1	1	5	38	27604839	27604840	27604840	27604839	27604839	27604839	22174	54.199.152.206
+5	1	1	0	0	27605087	0	0	27605087	0	0	132761	51.254.49.99
+5	1	0	0	0	27604883	0	0	27604883	0	0	2193	190.123.209.184
+5	1	1	0	0	27604804	0	0	27604804	0	0	38404	198.235.24.110
+5	1	0	0	0	27604820	0	0	27604820	0	0	2517	35.237.236.13
+5	1	1	0	0	27604824	0	0	27604824	0	0	27184	87.236.176.102
+5	50	2	1	0	27605155	27604855	0	27604855	27604855	0	3846929	78.190.158.245
+5	0	0	0	1	0	0	27604811	0	0	27604811	0	170.247.220.177
+5	1	1	2	0	27605027	27605027	0	27605027	27605027	0	131771	89.252.132.43
+5	2	2	1	0	27604824	27604823	0	27604823	27604823	0	0	89.252.132.42
+5	5	2	2	0	27604808	27604805	0	27604805	27604805	0	281549	37.120.147.172
+5	1	1	1	0	27604803	27604803	0	27604803	27604803	0	27188	193.34.75.216
+5	1	1	0	0	27604806	0	0	27604806	0	0	0	206.189.198.85
+5	32	2	0	0	27605254	0	0	27605254	0	0	745293	46.106.247.189
+5	0	0	1	0	0	27604842	0	0	27604842	0	0	191.102.155.202
+5	1	1	0	0	27604887	0	0	27604887	0	0	27178	34.219.91.132
+5	8	1	0	0	27605057	0	0	27605030	0	0	277181	89.252.132.30
+5	44	1	0	0	27604821	0	0	27604818	0	0	4982251	185.206.225.147
+5	120	4	7	0	27605056	28054663	0	27604826	27605038	0	10059415	78.190.63.17
+5	5	2	2	0	27604818	27604817	0	27604817	27604817	0	149786	89.252.132.28
+5	1	1	0	2	27604974	0	27604974	27604974	0	27604900	27164	47.88.94.28
+5	1	1	1	0	27604830	27604830	0	27604830	27604830	0	27178	35.165.134.129
+5	1	1	0	0	27604816	0	0	27604816	0	0	22436	89.252.132.26
+5	1	1	0	0	27605219	0	0	27605219	0	0	0	186.179.59.10
+5	6	3	1	0	27605065	27605063	0	27605063	27605063	0	149794	89.252.132.24
+5	1	1	0	0	27604838	0	0	27604838	0	0	27146	133.242.140.127
+5	1	1	1	0	27604824	27604823	0	27604824	27604823	0	0	205.185.222.19
+5	1	1	0	0	27605359	0	0	27605359	0	0	131771	205.210.31.194
+5	0	0	0	1	0	0	27604824	0	0	27604824	0	68.69.184.110
+5	1	0	0	0	27605121	0	0	27605121	0	0	7427	38.154.198.14
+5	1	0	0	0	27604815	0	0	27604815	0	0	4005	193.34.75.192
+5	0	0	1	0	0	27604917	0	0	27604917	0	0	198.235.24.90
+5	0	0	0	1	0	0	27604811	0	0	27604811	0	107.21.81.237
+5	1	1	0	0	27604853	0	0	27604853	0	0	27176	191.102.155.176
+5	69	2	0	0	27604818	0	0	27604802	0	0	6188010	78.190.54.228
+5	1	1	1	0	27605478	27605478	0	27605478	27605478	0	131771	205.210.31.185
+5	1	0	0	0	27604854	0	0	27604854	0	0	2517	193.34.75.182
+5	1	1	0	0	27604803	0	0	27604803	0	0	131771	198.235.24.80
+5	45	1	1	0	27604854	27604854	0	27604854	27604854	0	4986242	54.147.174.36
+5	1	1	0	0	27605102	0	0	27605102	0	0	132761	205.210.31.180
+5	1	0	0	0	27604883	0	0	27604883	0	0	2193	190.123.209.136
+5	56	1	0	0	27604845	0	0	27604804	0	0	5694530	185.11.15.132
+5	0	0	1	0	0	27604815	0	0	27604815	0	0	170.247.221.251
+5	0	0	0	1	0	0	27604974	0	0	27604974	0	47.89.193.162
+5	1	0	0	0	27604854	0	0	27604854	0	0	2193	132.255.133.63
+5	1	1	5	37	27604850	27604851	27604851	27604850	27604850	27604850	22172	35.78.88.189
+5	2	1	0	1	27604809	0	27604809	27604809	0	27604809	31175	34.214.127.98
+5	1	0	0	0	27604804	0	0	27604804	0	0	63614	170.254.178.158
+5	1	0	0	0	27604854	0	0	27604854	0	0	63614	45.139.38.214
+5	1	1	0	0	27604883	0	0	27604883	0	0	131771	205.210.31.171
+5	1	1	0	1	27604974	0	27604901	27604974	0	27604901	27137	47.254.74.59
+5	1	0	0	0	27604944	0	0	27604944	0	0	2517	34.75.147.238
+5	1	0	0	0	27604828	0	0	27604828	0	0	2517	34.148.47.83
+5	5	1	0	0	27604800	0	0	27604800	0	0	588398	65.154.226.171
+5	2	0	0	0	27604883	0	0	27604883	0	0	14854	132.255.133.52
+5	42	1	0	0	27604800	0	0	27604800	0	0	4867877	65.154.226.170
+5	42	1	0	0	27604800	0	0	27604800	0	0	4867985	65.154.226.168
+5	2	2	1	0	27605027	27605027	0	27605027	27605027	0	131771	162.222.195.71
+5	1	1	0	0	27604809	0	0	27604809	0	0	132761	198.235.24.56
+5	2	0	0	0	27604883	0	0	27604883	0	0	236245	191.102.157.91
+5	2	0	0	0	27604804	0	0	27604804	0	0	231415	198.20.189.58
+5	1	1	0	0	27604800	0	0	27604800	0	0	27142	39.110.218.101
+5	1	1	1	0	27605050	27605050	0	27605050	27605050	0	27175	35.91.250.45
+5	1	1	1	0	27604809	27604809	0	27604809	27604809	0	146290	198.235.24.52
+5	2	0	0	0	27604825	0	0	27604820	0	0	5034	104.196.60.176
+5	1	1	0	0	27604802	0	0	27604802	0	0	5786	34.83.252.95
+5	0	0	1	0	0	27604906	0	0	27604906	0	0	205.210.31.154
+5	0	0	1	0	0	27604986	0	0	27604986	0	0	198.235.24.51
+5	1	0	0	0	27604842	0	0	27604842	0	0	4005	190.123.209.113
+5	4	0	0	0	27605057	0	0	27605056	0	0	127387	195.181.170.232
+5	1	1	0	0	27604828	0	0	27604828	0	0	132761	205.210.31.153
+5	7	0	0	0	27604897	0	0	27604897	0	0	21320	178.244.73.126
+5	1	1	0	0	27604848	0	0	27604848	0	0	131771	205.210.31.149
+5	39	1	0	0	27604807	0	0	27604806	0	0	4295039	176.234.224.93
+5	1	1	0	0	27604831	0	0	27604831	0	0	5772	137.184.140.204
+5	1	0	0	0	27604804	0	0	27604804	0	0	11578	198.20.189.46
+5	5	2	1	0	27604810	27604805	0	27604805	27604805	0	215322	51.178.81.195
+5	1	1	0	0	27604808	0	0	27604808	0	0	37758	198.235.24.39
+5	2	1	0	1	27604836	0	27604836	27604836	0	27604836	27188	8.217.127.72
+5	1	1	0	0	27604925	0	0	27604925	0	0	132761	198.235.24.38
+5	3	3	0	0	27604828	0	0	27604828	0	0	287743	93.119.227.91
+5	1	1	2	1	27604908	27604908	27604908	27604908	27604908	27604908	27175	35.217.23.130
+5	1	1	0	0	27604800	0	0	27604800	0	0	0	195.74.76.198
+5	4	1	0	0	27604827	0	0	27604824	0	0	149794	197.242.156.56
+5	10	10	0	0	27605321	0	0	27604800	0	0	271505	51.75.169.50
+5	10	4	1	0	27604825	27604805	0	27604805	27604805	0	299580	87.249.139.227
+5	2	2	0	2	27605310	0	27605310	27605205	0	27605205	240853	51.158.37.195
+5	0	0	0	1	0	0	27604823	0	0	27604823	0	93.158.91.233
+5	5	2	1	0	27605027	27605027	0	27604824	27605027	0	281565	185.108.105.166
+5	1	1	0	0	27604816	0	0	27604816	0	0	22436	198.23.242.155
+5	0	0	1	0	0	27604823	0	0	27604823	0	0	93.158.91.230
+5	5	2	1	0	27604818	27604817	0	27604817	27604817	0	149786	192.158.226.18
+5	1	1	0	0	27604823	0	0	27604823	0	0	27176	93.158.91.224
+5	0	0	1	0	0	27604842	0	0	27604842	0	0	191.102.155.111
+5	45	1	1	0	27604873	27604872	0	27604872	27604872	0	4986259	3.136.37.139
+5	1	0	0	0	27604854	0	0	27604854	0	0	309788	95.164.159.146
+5	2	1	0	0	27604803	0	0	27604803	0	0	34590	209.127.253.74
+5	1	1	0	0	27605016	0	0	27605016	0	0	12486	34.168.41.75
+5	0	0	1	0	0	27604853	0	0	27604853	0	0	209.127.253.68
+5	1	0	1	0	27604901	27604900	0	27604901	27604900	0	4005	95.164.158.15
+5	1	1	1	1	27604931	27604931	27604931	27604931	27604931	27604931	27179	54.213.134.166
+5	1	1	0	0	27604821	0	0	27604821	0	0	37758	198.235.24.11
+5	1	0	0	0	27605321	0	0	27605321	0	0	87	3.142.243.195
+5	81	3	0	0	27604854	0	0	27604851	0	0	5050871	157.230.195.44
+5	1	1	0	0	27605219	0	0	27605219	0	0	25266	34.201.82.13
+5	1	1	0	1	27604900	0	27604974	27604900	0	27604974	27156	47.254.76.138
+5	110	4	1	0	27605260	27605259	0	27605251	27605259	0	5174860	88.227.93.62
+5	1	1	0	0	27605041	0	0	27605041	0	0	132761	205.210.31.107
+5	0	0	1	1	0	27605033	27605033	0	27605033	27605033	0	35.92.22.142
+5	1	0	0	0	27604804	0	0	27604804	0	0	7427	170.247.221.173
+5	0	0	1	1	0	27604823	27604823	0	27604823	27604823	0	93.158.91.193
+5	0	0	1	1	0	27604823	27604823	0	27604823	27604823	0	93.158.91.203
+5	1	1	0	0	27604815	0	0	27604815	0	0	27153	191.102.174.177
+5	0	0	0	1	0	0	27604900	0	0	27604900	0	47.251.11.3
+5	2	2	0	0	27605224	0	0	27604855	0	0	54326	167.94.138.51
+5	1	0	0	0	27604883	0	0	27604883	0	0	2517	95.164.159.122
+5	1	1	1	0	27604976	27604976	0	27604976	27604976	0	27169	167.94.138.50
+5	1	1	0	0	27604815	0	0	27604815	0	0	5776	15.204.173.67
+5	355	17	54	7	27605321	27605308	27605308	27604871	27604871	27604872	15389526	146.59.157.229
+5	0	0	1	0	0	27605051	0	0	27605051	0	0	205.210.31.67
+5	2	0	0	0	27604822	0	0	27604822	0	0	277003	95.164.159.120
+5	1	1	1	0	27604802	27604802	0	27604802	27604802	0	27175	52.38.218.229
+5	0	0	1	0	0	27604823	0	0	27604823	0	0	93.158.91.184
+5	1	0	0	0	27605009	0	0	27605009	0	0	4005	3.83.147.205
+5	0	0	2	0	0	28054834	0	0	28054834	0	0	144.91.106.14
+5	1	0	0	0	27604854	0	0	27604854	0	0	7427	170.254.179.179
+5	1	0	0	0	27604825	0	0	27604825	0	0	2517	35.196.209.246
+5	23	23	0	0	27605200	0	0	27604800	0	0	623244	20.229.51.198
+5	1	1	1	0	27604844	27604844	0	27604844	27604844	0	27194	167.94.138.35
+5	0	0	1	0	0	27604839	0	0	27604839	0	0	205.210.31.52
+5	1	0	0	0	27604804	0	0	27604804	0	0	2193	191.102.149.105
+5	1	1	0	0	27605009	0	0	27605009	0	0	27153	193.34.72.76
+5	5	2	1	0	27604839	27604831	0	27604831	27604831	0	281565	128.90.169.139
+5	1	1	0	0	27604801	0	0	27604801	0	0	131757	179.43.169.181
+5	2	1	1	1	27604813	27604813	27604813	27604813	27604813	27604813	31181	35.89.173.49
+5	2	1	0	1	27604932	0	27604931	27604932	0	27604931	31178	35.92.198.173
+5	1	0	0	0	27604944	0	0	27604944	0	0	2517	34.75.95.140
+5	2	2	0	6	27605236	0	27605236	27605235	0	27605082	264334	51.159.103.13
+5	1	1	0	0	27604816	0	0	27604816	0	0	22436	202.43.6.36
+5	1	1	0	0	27604826	0	0	27604826	0	0	131771	205.210.31.27
+5	0	0	1	0	0	27604821	0	0	27604821	0	0	37.239.88.33
+5	1	1	0	0	27604884	0	0	27604884	0	0	27190	170.254.179.141
+5	1	1	0	0	27604853	0	0	27604853	0	0	27172	170.247.220.80
+5	1	0	0	0	27604884	0	0	27604884	0	0	11578	170.254.179.94
+5	1	1	5	38	27604849	27604850	27604850	27604849	27604849	27604849	22171	18.183.65.15
+5	4	0	0	0	27605057	0	0	27605056	0	0	127387	23.83.130.178
+5	29	29	0	0	27605302	0	0	27604800	0	0	788193	13.95.133.245
+5	1	0	0	0	27605321	0	0	27605321	0	0	87	35.88.245.153
+5	1	1	0	0	27604811	0	0	27604811	0	0	0	193.34.72.42
+5	0	0	1	0	0	27605009	0	0	27605009	0	0	193.34.72.39
+5	15	0	1	0	27604837	27604837	0	27604837	27604837	0	733924	78.162.150.159
+5	1	1	0	0	27604900	0	0	27604900	0	0	27178	170.247.220.66
+5	1	1	0	0	27605219	0	0	27605219	0	0	25260	138.128.83.235
+5	3	3	0	15	27604800	0	27604800	27604800	0	27604800	50649	139.144.96.150
+5	1	0	0	0	27604860	0	0	27604860	0	0	87	3.135.9.157
+5	1	1	0	0	27604821	0	0	27604821	0	0	27152	111.88.132.152
+5	2	1	0	1	27604891	0	27604891	27604891	0	27604891	31186	35.87.23.138
+5	1	1	2	0	27604823	27604824	0	27604823	27604823	0	0	185.147.212.18
+5	5	1	0	6	27604847	0	27604847	27604847	0	27604847	509717	106.75.96.247
+5	1	0	0	0	27605121	0	0	27605121	0	0	11578	170.247.220.56
+5	2	0	0	0	27605321	0	0	27605321	0	0	174	18.119.141.189
+5	0	0	0	4	0	0	27604931	0	0	27604931	0	34.76.16.152
+5	0	0	2	0	0	27604983	0	0	27604868	0	0	54.37.233.116
+5	7	1	8	3	27604800	27604800	27604800	27604800	27604800	27604800	82	167.99.8.63
+5	27	1	23	0	27604801	27604801	0	27604801	27604801	0	969189	18.215.166.179
+5	13	0	0	0	27605355	0	0	27605355	0	0	717091	176.235.75.196
+5	1	0	0	0	27604822	0	0	27604822	0	0	6591	170.247.222.188
+5	92	4	1	0	27604833	27604817	0	27604817	27604817	0	10109588	216.131.88.5
+5	4	1	0	0	27605031	0	0	27605030	0	0	149794	217.138.194.123
+5	5	1	1	0	27605057	27604824	0	27604824	27604824	0	259158	216.131.88.4
+5	2	0	0	0	27604822	0	0	27604822	0	0	65807	192.241.67.89
+5	109	4	0	0	27605033	0	0	27605030	0	0	11634495	23.82.137.102
+5	1	1	0	0	27604842	0	0	27604842	0	0	27180	138.128.83.65
+5	0	0	1	1	0	27604894	27604894	0	27604894	27604894	0	54.218.118.222
+5	1	0	0	0	27605121	0	0	27605121	0	0	2517	192.241.67.83
+5	1	1	0	0	27604890	0	0	27604890	0	0	27171	54.190.163.254
+5	1	0	0	0	27605219	0	0	27605219	0	0	4005	54.145.38.26
+5	1	1	1	0	27604880	27604880	0	27604880	27604880	0	27177	131.153.240.162
+5	2	2	1	0	27604919	27604919	0	27604918	27604919	0	54354	58.17.6.9
+5	2	2	2	0	27604801	27604801	0	27604801	27604801	0	54305	34.83.18.35
+5	5	2	1	0	27604809	27604805	0	27604805	27604805	0	149786	94.46.220.96
+5	1	0	0	0	27604804	0	0	27604804	0	0	224667	191.102.157.186
+5	10	4	1	0	27605065	27605063	0	27605030	27605063	0	365124	94.46.220.95
+5	1	0	0	0	27604854	0	0	27604854	0	0	11578	191.102.187.189
+5	1	0	0	0	27604943	0	0	27604943	0	0	2517	35.231.175.220
+5	0	0	1	0	0	27604821	0	0	27604821	0	0	103.232.142.66
+5	1	1	0	0	27604824	0	0	27604824	0	0	131771	185.246.188.74
+5	0	0	1	0	0	27604803	0	0	27604803	0	0	191.102.157.182
+5	44	1	1	0	27605022	27605022	0	27605022	27605022	0	4982242	44.236.207.248
+5	1	0	0	0	27604943	0	0	27604943	0	0	2517	34.139.85.168
+5	1	0	0	0	27604822	0	0	27604822	0	0	11578	193.34.74.63
+5	15	1	0	0	27604896	0	0	27604896	0	0	23970	178.244.27.5
+5	3	0	0	0	27604825	0	0	27604825	0	0	18023	192.42.116.192
+5	59	2	2	0	27604800	27604800	0	27604800	27604800	0	6433550	205.169.39.179
+5	1	1	1	0	27604887	27604887	0	27604887	27604887	0	27177	52.32.6.91
+5	1	0	0	0	27604854	0	0	27604854	0	0	73763	170.247.222.86
+5	3	0	0	0	27604801	0	0	27604801	0	0	150118	66.249.93.63
+5	1	1	1	1	27604823	27604823	27604823	27604823	27604823	27604823	27178	52.43.73.106
+z	0	5952	41	27605321	0
+z	1	24	0	27604919	132
+z	2	908	0	27605355	38105
+z	3	872	0	27605320	317645
+z	4	1493	25	27605355	7341900
+z	5	1978	420	27605355	82882907
+z	6	1325	104	27605478	277329051
+c	200	7994	27605478
+c	302	568	28054834
+c	304	4558	27605321
+c	399	1	27604840
+c	401	1	27605017
+c	403	45	27605203
+c	404	315	27605310
+c	405	3	27605216
+c	499	138	27605321
+c	500	67	27605144
